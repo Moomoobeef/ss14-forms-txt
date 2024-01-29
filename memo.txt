@@ -1,0 +1,4 @@
+[color=#1b67a5]█▄ █ ▀█▀    [head=3]SENDER Memo[/head]
+█ ▀█     █        SUBJECT[/color]
+──────────────────────────────────────────
+BODY
