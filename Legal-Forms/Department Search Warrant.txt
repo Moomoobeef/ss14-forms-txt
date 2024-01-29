@@ -1,0 +1,17 @@
+[color=#1b67a5]█▄ █ ▀█▀    [head=3]Department Search Warrant[/head]
+█ ▀█     █        [color=red]This document invalid unless stamped[/color][/color]
+──────────────────────────────────────────
+This warrant gives security permission to search a particular department.
+[color=red][bold]This warrant must be approved and stamped by the dept. head of the department to be searched [italic]or[/italic] the highest ranking avaliable command (often Captain or HoP).[/bold][/color]
+
+Requesting Officer:   [color=#002AAF]Sample Person[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Warrant Target:   [color=#002AAF]Sample Department[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Warrant Reason:   [color=#002AAF]Sample Reason[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+If illegal items are found in the searched department they will be confiscated and the owner of these items may be detained at the officers discretion. [bold]Legal items may not be taken in a search.[/bold]
+
+[color=#aaaaaa]This document is not valid unless stamped by at least one of the listed required personnel.
+This form follows NT Space Law §3.1, §3.2, and §3.3
+Those who abuse granted permission can be fined up to 5000 spesos pursuant NT Handbook §16-8.7c[/color]
