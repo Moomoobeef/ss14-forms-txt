@@ -1,0 +1,14 @@
+[color=#5b97bc]█▄ █ ▀█▀    [head=3]Document Exception Form[/head]
+█ ▀█     █        [color=red]This document invalid unless stamped[/color][/color]
+──────────────────────────────────────────
+When stamped by the CMO the holder of this document is [bold]exempt[/bold] from having to fill out forms, respond to letters, or otherwise engage in bureaucracy for mental health reasons.
+
+Exempted Individual:   [color=#002AAF]Sample Person[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Evaluating Psychologist:   [color=#002AAF]Sample Person[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[head=3]THIS DOCUMENT MUST BE STAMPED BY THE CHIEF MEDICAL OFFICER IN ORDER TO BE VALID.[/head]
+
+[color=#aaaaaa]This document is not valid unless stamped by at least one of the listed required personnel.
+Those who abuse granted permission can be fined up to 5000 spesos pursuant NT Handbook §16-8.7c[/color]
