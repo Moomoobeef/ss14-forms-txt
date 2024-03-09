@@ -1,0 +1,37 @@
+  
+[head=1]NT-110[/head]    [head=2]Temporary Restraining Order[/head]
+▬▬▬▬▬▬▬▬
+[head=3](1) Name of Protected Person[/head]
+                   [color=#002AAF]Sample Person[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Your lawyer's information[/bold] [italic](if you do not have a lawyer, you may give your information however you are not required to.)[/italic]:
+Name:    [color=#002AAF]Sample Answer[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Firm Name:    [color=#002AAF]Sample Answer[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Fax Address:    [color=#002AAF]Sample Answer[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[head=3](2) Name of Restrained Person[/head]
+                   [color=#002AAF]Sample Person[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Description of Restrained person:[/bold]
+Sex: \[  ] M    \[  ] F
+Race & Age:    [color=#002AAF]Sample Answers[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Hair/Eye Color:    [color=#002AAF]Sample Answers[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Relationsip to (1):    [color=#002AAF]Sample Answer[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[head=3](3) \[  ] Additional Protected Persons[/head]
+In addition to the person named in (1), the folowing persons are protected my temporary orders as indicated below.
+[bold]Full Name/Relationship/Sex/Age[/bold]
+[color=#002AAF][bullet/]Sample Sampleton/Son/Male/42    [/color]
+[color=#002AAF][bullet/][/color]
+[color=#002AAF][bullet/][/color]
+
+[head=3](4) Expiration Date[/head]
+[bolditalic]This order expires at the date and time of the court hearing below:[/bolditalic]
+Shift Time:    [color=#002AAF]Sample Time[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾

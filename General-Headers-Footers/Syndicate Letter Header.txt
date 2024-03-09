@@ -1,0 +1,10 @@
+[color=#ff0000]█▀  █▀▀  ▀█    [head=3]Priority Mail[/head]
+█     ▀▀█     █     From: NAME
+▀▀  ▀▀▀  ▀▀    To: RECIPIENT
+                            Subject: SUBJECT[/color]
+──────────────────────────────────────────
+    BODY
+
+
+──────────────────────────────────────────
+Sincerely, NAME.

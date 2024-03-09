@@ -1,0 +1,23 @@
+[color=#5b97bc]█▄ █ ▀█▀    [head=2]DO NOT BORG[/head]
+█ ▀█     █        [color=red]This document invalid unless stamped[/color][/color]
+──────────────────────────────────────────
+[color=red][bold]This document is intended to allow individuals who would not like to be made into a cyborg when they die to advocate as such. It is not intended to be used by others to prevent the borgification of another individual unless they are an approved health-care surrogate of the patient or court-appointed guardian of the patient.[/bold][/color]
+
+Patients Name:   [color=#002AAF]Sample Person[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[head=1]PATIENTS STATEMENT[/head]
+Based upon informed consent, I, the undersigned, hereby direct that cyborgification be withheld or withdrawn.
+[bold](If not signed by patient, check applicable box)[/bold]
+\[  ] Surrogate    \[  ] Court-Appointed Guardian
+
+Applicable Signature:   [color=#002AAF]Sample Signature[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[head=2]CMO READ BELOW[/head]
+In order for this form to be valid it MUST be stamped by the Chief Medical Officer of the station/ship/colony.
+[bold]BY STAMPING BELOW, YOU HEREBY CERTIFY:
+1. You have informed the patient/surrogate/guardian of the implications of this order.
+2. You witnessed the signing of the document by the patient/surrogate/guardian.
+3. You vouch for the authenticity of the signature and document.[/bold]
+
+[italic]               When complete, please stamp in the area below
