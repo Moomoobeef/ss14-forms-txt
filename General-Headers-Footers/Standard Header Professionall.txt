@@ -6,7 +6,7 @@
                                 ║░░░░██░░░████░███░║
                                 ╚══════════════════╝[/color]
                                             [head=3]NanoTrasen[/ head]
-                              [head=3][color=#1b487e]Current Station[/color]
+                              [head=3][color=#1b487e]Current Station[/color][/head]
 ──────────────────────────────────────────
     BODY
 
