@@ -1,0 +1,45 @@
+[color=#1b67a5]█▄ █ ▀█▀    [head=3]Material Safety Data Sheet[/head]
+█ ▀█     █        Complies with Space OSHA Hazard
+                       Communication Standard 29 CFR 1910.1200
+
+[head=3]BICARIDINE[/head][/color]
+──────────────────────────────────────────
+[head=3]Section 1. Product Identification[/head]
+
+[bold]Product Name:[/bold] Bicaridine
+[bold]Product Type:[/bold] Medicine
+[bold]Product Use(s):[/bold]
+Analgesic Agent, Anti-Brute Agent, Chemical Precursor To Other Medications
+
+──────────────────────────────────────────
+[head=3]Section 2. Hazard(s) & First Aid[/head]
+
+[bold]Potential Acute Health Effects:[/bold]
+Vomitting, Jittering, Shortness Of Breath, Poison Shock, Nausea, Dizziness
+
+[bold]Potential Chronic Health Effects:[/bold]
+Chemical Damage To Organs
+
+[bold]Flammability Considerations:[/bold]
+\[  ] Highly Flammable
+\[  ] Store in a sealed container
+\[  ] May Spontaneously Combust
+
+──────────────────────────────────────────
+[head=3]Section 3. Medical Uses & Side Effects[/head]
+
+Can be used to heal all brute damages.
+[bold]Do not allow patient dosage to exceed 15u![/bold]
+An overdose may cause asphyxiation and poisoning.
+
+This chemical may cause nausea and dizziness.
+This chemical may cause jittering above a concentration of 15u.
+
+──────────────────────────────────────────
+[head=3]Section 4. Regulatory Rules[/head]
+
+This chemical is non-controlled and can be produced/used by all staff at any time.
+
+──────────────────────────────────────────
+
+[head=3]DISCLAIMER:[/head] The data contained herein are furnished for information only and are believed to be reliable. However, NanoTrasen and its affiliates (“Central Command”) does not assume responsibility for any results obtained by persons over whose methods NanoTrasen has no control. It is the user’s responsibility to determine the suitability of NanoTrasen’s products or any production methods mentioned herein for a particular purpose, and to adopt such precautions as may be advisable for the protection of property and persons against any hazards that may be involved in the handling and use of any NanoTrasen’s products. In light of the foregoing, NanoTrasen specifically disclaims all warranties, express or implied, including warranties of merchantability and fitness for a particular purpose, arising from sale or use of NanoTrasen’s products. NanoTrasen further disclaims any liability for consequential or incidental damages of any kind, including lost profits. 
