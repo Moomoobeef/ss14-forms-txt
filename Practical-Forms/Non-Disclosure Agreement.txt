@@ -1,0 +1,81 @@
+
+[head=2]NON-DISCLOSURE AGREEMENT (NDA)[/head]
+
+[head=3]1. THE PARTIES[/head]
+This Non-Disclosure-Agreement, hereinafter known as the "Agreement," is created between
+    [color=#002AAF]Sample[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+hereinafter known as "1st party," and
+    [color=#002AAF]Sample[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+hereinafter known as "2nd party," and collectively known as the "Parties"
+
+This agreement is created for the purpose of preventing the unauthorized disclosure of the confidential and proprietary information (the "Confidential Information").
+
+The parties agree as follows:
+
+[head=3]2. AGREEMENT TYPE[/head][bold] — Check one (1):[/bold]
+
+\[  ] [bold]Unilateral[/bold] — This agreement shall be Unilateral, whereas 1st Party shall have sole ownership of the Confidential Information with 2nd Party being prohibited from disclosing the Confidential Information to be released by the 1st party.
+
+\[  ] [bold]Mutual[/bold] — This agreement shall be Mutual, whereas the Parties shall be prohibited from disclosing the Confidential Information that is to be shared between one another.
+
+[head=3]3. RELATIONSHIP[/head]
+1st Party's relationship to 2nd Party can be described as
+    [color=#002AAF]Sample[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+2nd Party's relationship to 1st Parry can be described as
+    [color=#002AAF]Sample[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[head=3]4. CONFIDENTIAL INFORMATION[/head]
+ \[  ] All shared by disclosing Party(ies)
+ \[  ] Only info marked 'Confidential'
+ \[  ] Only specific information
+  - 	\[  ] Accounting information
+  - 	\[  ] Business operations
+  - 	\[  ] Computer and software information
+  - 	\[  ] Customer information
+  - 	\[  ] Marketing and sales information
+  - 	\[  ] Product information
+  - 	\[  ] Proprietary rights (including intellectual property)
+  - 	\[  ] Service information
+  - 	\[  ] Other:  [color=#002AAF]Sample[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[head=3]5. DURATION[/head]
+The bounded Party's(ies) duty to hold the Confidential Information in confidence shall remain in effect until the following condition is reached
+\[  ] Such information no longer qualifies as a trade secret
+\[  ] Written notice is given releasing such Party from this Agreement
+\[  ] The following duration elapses from the signing of this Agreement: [color=#002AAF]X Years[/color]
+\[  ] Other:  [color=#002AAF]Sample[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[head=3]6. OBLIGATIONS[/head]
+The obligations of the Parties shall be to hold and maintain the Confidential Information in the strictest of confidence of all times. If any such Confidential Information shall reach a third (3rd) party, or become public, all liability will be on the Party that is responsible. Neither Party shall, without the written approval of the other Party, publish, copy, or use the Confidential Information for their sole benefit. If requested, either Party shall be bound to return any and all materials to the Requesting party within seven (7) days. This Section shall not apply to the 1st Party if this agreement is Unilateral as marked in Section 2.
+
+[head=3]7. REPRESENTIVES[/head]
+The Parties will take reasonable steps to ensure that its Representives adhere to the terms of this Agreement. Should a Representive breach this Agreement the Party being represented by that Representive will be held responsible.
+
+[head=3]8. ENFORCEMENT[/head]
+The Parties acknowledge and agree that due to the unique and sensitive nature of the Confidential Information, any breach of this Agreement would cause irreparable harm for which damages and/or equitable relief may be sought. The harmed Party in this Agreement shall be entitled to all remedies available at law.
+
+[head=3]9. INTEGRATION[/head]
+This Agreement expresses the complete understanding of the Parties with respect to the subject matter and supersedes all prior proposals, agreements, representations, and understandings. This Agreement may not be amended except in writing with the acknowledgment of the Parties.
+
+[head=3]10. SEVERABILITY[/head]
+If a court finds that any provision of this Agreement is invalid or unenforceable, the remainder of this Agreement shall be interpreted so as best to affect the intent of the Parties.
+
+[head=3]11. GOVERNING LAW[/head]
+This Agreement shall be governed under the laws of The NanoTrasen Court of Space
+
+[bold]WITNESS WHEREOF, the Parties hereto have executed this Agreement[/bold]
+
+
+  [color=#002AAF]Sample[/color]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+1st Party's Signature
+
+  [color=#002AAF]Sample[/color]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+2nd Party's Signature
