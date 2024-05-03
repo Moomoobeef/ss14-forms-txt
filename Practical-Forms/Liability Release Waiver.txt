@@ -1,0 +1,33 @@
+
+    [head=1]LIABILITY RELEASE WAIVER[/head]
+
+This Waiver is made between the "Releasor";
+    [color=#002AAF]Sample[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+And the "Releasee"
+    [color=#002AAF]Sample[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[head=2]1. [/head]Releasor and anyone claiming on the Releasor's behalf releases and forever discharges Releasee and its affiliates, successors, officers, employees, representatives, partners, agents, and anyone claiming through them (collectively, the "Released Parties"), in their individual and/or corporate capacities from any and all claims, liabilities, obligations, promises, agreements, disputes, demands, damages, causes of action of any nature and kind, known or unknown, which Releasor has or ever had or may in the future have against Releasee or any of the Released Parties arising out of or relating to the following: ("Claims")
+\[  ] All Liability
+\[  ] Specific Liability
+  - 	\[  ] Personal Injury
+  - 	\[  ] Property Damage
+  - 	\[  ] Other:
+    [color=#002AAF]Sample[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[head=2]2. [/head]In exchange for the release of Claims, Releasee will provide Releasor a payment in the amount of [color=#002AAF]X Spesos[/color]. In consideration of such payment, Releasor agrees to accept the payment as full and complete settlement and satisfaction of any present and prospective claims.
+
+[head=2]3. [/head]This Waiver shall not be in any way construed as an admission by the Releasee that it has acted wrongfully with respect to the Releasor or any other person, that it admits liability or responsibility at any time for any purpose, or that Releasor has any rights whatsoever against the Releasee.
+
+[head=2]4. [/head]This Waiver shall be binding upon the parties and their respective heirs, administrators, personal representatives, executors, successors and assigns. Releasor has the authority to release the Claims and has not assigned or transferred any Claims to any other party. The provisions of this Waiver are severable. If any provision is held to be invalid or unenforceable, it shall not affect the validity or enforce-ability of any other provision. This Waiver constitutes the entire agreement between the parties and supersedes any and all prior oral or written agreements or understandings between the parties concerning the subject matter of this Waiver. This Waiver may not be altered, amended or modified, except by a written document signed by both parties. The terms of this Waiver shall be governed and construed in accordance with the laws of The NanoTrasen Court of Space.
+
+[head=2]5. [/head]Both parties represent they fully understand their right to review all aspects of this Waiver with attorneys of their choice, that they have had the opportunity to consult with attorneys of their choice, that they have carefully read and fully understand all the provisions of this Waiver and that they are freely, knowingly and voluntarily entering into this Waiver.
+
+Releasor Signature:
+    [color=#002AAF]Sample[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Releasee Signature:
+    [color=#002AAF]Sample[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
