@@ -1,8 +1,9 @@
+# Do not resuscitate
 [color=#334E6D]█▄  █ ▀█▀
 █  ▀█    █®[head=2][bold]
 DNR Form[color=black][head=3]
 ───────────────────────────────
-The subject of this DNR has either requested, or been ordered, not to be resuscitated, cloned or anything that would bring them back to life.
+The subject of this DNR (Do not resuscitate) has either requested, or been ordered, not to be resuscitated, cloned or anything that would bring them back to life.
 
 Subject:[color=gray][italic] Name Here
 [color=black][/italic]
