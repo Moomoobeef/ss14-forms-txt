@@ -3,10 +3,10 @@
 
 [head=3]1. THE PARTIES[/head]
 This Non-Disclosure-Agreement, hereinafter known as the "Agreement," is created between
-    [color=#002AAF]Sample[/color]
+    [color=#002AAF]Sample 1st Party[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 hereinafter known as "1st party," and
-    [color=#002AAF]Sample[/color]
+    [color=#002AAF]Sample 2nd Party[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 hereinafter known as "2nd party," and collectively known as the "Parties"
 
