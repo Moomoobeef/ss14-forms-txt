@@ -1,3 +1,4 @@
+# Incident Report Form
 [color=#1b67a5]█▄ █ ▀█▀    [head=3]INCIDENT REPORT[/head]
 █ ▀█     █        Prepared by: NAME
                        Subject: SUBJECT[/color]
@@ -10,14 +11,14 @@ This form is issued to be used by [italic]any[/italic] station staff in order to
 [head=3][head=2]1. [/head]Severity[/head]
 How Severe is the incident? (select one)
 (  ) Negligible
-(  ) Minor*
+(  ) Minor
 (  ) Considerable*
 (  ) Serious**
 (  ) Station-Threatening***
 
 [italic]*At least one witness is [bold]required.[/bold]
 **At least two witnesses are [bold]required.[/bold]
-*** At least 3 witnesses are [bold]required, at least one must be a commanding member of staff and the document must be stamped by said staff.[/bold][/italic]
+*** At least 2 witnesses are [bold]required, at least one must be a commanding member of staff and the document must be stamped by said staff.[/bold][/italic]
 
 How many people are affected by the incident? (select one)
 (  ) Just a few
@@ -82,6 +83,10 @@ Are any of the departments completely destroyed and/or non-functional?
 \[  ] Sci     \[  ] Engi  \[  ] Service         \[  ] Cargo        
 \[  ] Med  \[  ] Sec   \[  ] Command    \[  ] The Bar
 
+Include any further info about the status of the station here:
+    [color=#002AAF]Info here[/color]
+
+
 ════════════
 [head=3][head=2]5. [/head]Requested Assistance[/head]
 Please select the type of assistance you would like to request (if any).
@@ -89,13 +94,18 @@ Please select the type of assistance you would like to request (if any).
   - 	\[  ] Food
   - 	\[  ] Medical Supplies
   - 	\[  ] Building Supplies
+  -  \[  ] Personal Protective Equipment
+  -  \[  ] Weapons
   - 	\[  ] Other (please include in the field at the bottom)
 \[  ] Emergency Response Team (ERT)
   - 	\[  ] Engineering ERT
   - 	\[  ] Janitorial ERT
   - 	\[  ] Medical ERT
   - 	\[  ] Security ERT
+  - 	\[  ] Psychologist ERT
   - 	\[  ] Other specialty ERT (include in the field at the bottom)
+\[  ] Expedited evacuation
+\[  ] Moral Support
 \[  ] Other:    [color=#002AAF]Sample Request[/color]
                     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 If you asked for assistance, please explain why. Feel free to provide any additional info on how exactly we can assist.
