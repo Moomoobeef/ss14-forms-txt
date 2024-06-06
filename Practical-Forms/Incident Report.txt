@@ -1,0 +1,119 @@
+[color=#1b67a5]█▄ █ ▀█▀    [head=3]INCIDENT REPORT[/head]
+█ ▀█     █        Prepared by: NAME
+                       Subject: SUBJECT[/color]
+══════════════════════════════════════════
+This form is issued to be used by [italic]any[/italic] station staff in order to keep Central Command informed of any ongoing or concluded incidents. If an incident is severe and assistance is requested, Central Command may consider providing assistance, but is not obligated to do so.
+
+[bold]Please answer all questions as accurately and as honestly as you are able to.[/bold]
+
+════════════
+[head=3][head=2]1. [/head]Severity[/head]
+How Severe is the incident? (select one)
+(  ) Negligible
+(  ) Minor*
+(  ) Considerable*
+(  ) Serious**
+(  ) Station-Threatening***
+
+[italic]*At least one witness is [bold]required.[/bold]
+**At least two witnesses are [bold]required.[/bold]
+*** At least 3 witnesses are [bold]required, at least one must be a commanding member of staff and the document must be stamped by said staff.[/bold][/italic]
+
+How many people are affected by the incident? (select one)
+(  ) Just a few
+(  ) More than a handful
+(  ) Dozens
+(  ) Half of the station
+(  ) Most of the station
+(  ) Everyone or almost everyone
+
+════════════
+[head=3][head=2]2. [/head]Timing[/head]
+Is the incident still ongoing? (select one)
+(  ) No
+(  ) Yes
+(  ) Unsure
+
+The incident occurred at this time: (select one)
+(  ) Exactly
+(  ) Approximately
+    [color=#002AAF]Sample Time in HH:MM:SS[/color]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+(  ) Unsure
+
+════════════
+[head=3][head=2]3. [/head]Nature of the Incident[/head]
+Does the incident involve any of the following?
+\[  ] A nuclear threat
+\[  ] Traitors to NanoTrasen or the station
+\[  ] Civil unrest/uprising
+\[  ] A contagion/disease
+\[  ] Corrupt command staff
+\[  ] Departmental insubordination
+\[  ] Harmful non-humanoid lifeforms
+\[  ] Harmful anomalous entities/objects
+\[  ] Harmful artifacts of alien or unknown origin
+
+These departments are particularly endangered:
+\[  ] Sci     \[  ] Engi  \[  ] Service         \[  ] Cargo        \[  ] Other
+\[  ] Med  \[  ] Sec   \[  ] Command    \[  ] Passengers
+\[  ] All of the above
+\[  ] None of the above
+\[  ] Central Command
+
+Please thoroughly describe the incident. If you are aware of any command staff injuries or fatalities please include that in your description. If applicable, include the names of witnesses or if you intend to include their name at the bottom of the page, their respective number:
+    [color=#002AAF]Description here[/color]
+
+
+════════════
+[head=3][head=2]4. [/head]Station Status[/head]
+Are any of the following true?
+\[  ] Power very low or out completely
+\[  ] Gravity is non-functional
+\[  ] Large areas of the station are out of breathable air
+\[  ] Non security staff are armed
+\[  ] Medical is destroyed
+\[  ] The vault has been breached
+\[  ] The bridge is destroyed
+\[  ] One or more command are dead
+\[  ] The bar is unable to dispense alcohol
+
+Are any of the departments completely destroyed and/or non-functional?
+\[  ] Sci     \[  ] Engi  \[  ] Service         \[  ] Cargo        
+\[  ] Med  \[  ] Sec   \[  ] Command    \[  ] The Bar
+
+════════════
+[head=3][head=2]5. [/head]Requested Assistance[/head]
+Please select the type of assistance you would like to request (if any).
+\[  ] Supply assistance
+  - 	\[  ] Food
+  - 	\[  ] Medical Supplies
+  - 	\[  ] Building Supplies
+  - 	\[  ] Other (please include in the field at the bottom)
+\[  ] Emergency Response Team (ERT)
+  - 	\[  ] Engineering ERT
+  - 	\[  ] Janitorial ERT
+  - 	\[  ] Medical ERT
+  - 	\[  ] Security ERT
+  - 	\[  ] Other specialty ERT (include in the field at the bottom)
+\[  ] Other:    [color=#002AAF]Sample Request[/color]
+                    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+If you asked for assistance, please explain why. Feel free to provide any additional info on how exactly we can assist.
+    [color=#002AAF]Explanation here[/color]
+
+
+══════════════════════════════════════════
+Signature of Author:    [color=#002AAF]Sample Name[/color]
+                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Witness #1 Signature:    [color=#002AAF]Sample Name[/color]
+                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Witness #2 Signature:    [color=#002AAF]Sample Name[/color]
+                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Witness #3 Signature:    [color=#002AAF]Sample Name[/color]
+                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Witness #4 Signature:    [color=#002AAF]Sample Name[/color]
+                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Witness #5 Signature:    [color=#002AAF]Sample Name[/color]
+                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[bold][color=red]By submitting this document to Central Command the Author personally certifies that it is accurate to the best of their ability. Submitting false reports or reports with fake names can result in being charged with perjury and a fine of up to 5000 spesos or 18 months in prison.[/color][bold]
