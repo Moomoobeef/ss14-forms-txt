@@ -39,14 +39,14 @@ The Client agrees to pay the Contractor the following:
 [color=#002AAF]Sample Spesos[/color]
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾  Deposited immediately, and
 [color=#002AAF]Sample Spesos[/color]
-‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾  Apon completion of Work
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾  Upon completion of Work
 Payment of this amount is subject to change in accordance with mutually agreed changes/modifications to the Work.
 
 [head=3][head=2]4. [/head]Certificate of Completion[/head]
-Work under this agreement shall begin immediately. Apon completion of the Work, the Contractor shall notify the Client that the Work is ready for final inspection and acceptance. The Client shall make payment before the end of the shift unless another payment arrangement has been made.
+Work under this agreement shall begin immediately. Upon completion of the Work, the Contractor shall notify the Client that the Work is ready for final inspection and acceptance. The Client shall make payment before the end of the shift unless another payment arrangement has been made.
 
 [head=3][head=2]5. [/head]Materials & Labor[/head]
-Material acquisition payment is the responsiblity of:
+Material acquisition payment is the responsibility of:
 (  ) The Contractor
 (  ) The Client
 (  ) Handled on a case-by-case basis by the Parties
@@ -61,16 +61,16 @@ Provision of labor is the responsibility of:
 (  ) Will not be compensated by the Client
 
 [head=3][head=2]6. [/head]Laws & Permits[/head]
-The Contractor agrees to work in accordance with station laws and regulations. Acquiring a permit to have work performed will be the resposibility of the Client [italic]if a permit IS or BECOMES nesecary.[/italic]
+The Contractor agrees to work in accordance with station laws and regulations. Acquiring a permit to have work performed will be the responsibility of the Client [italic]if a permit IS or BECOMES necessary.[/italic]
 
 [head=3][head=2]7. [/head]Inspection[/head]
 The Client shall have the right to inspect the Work being done or that has been done at any time and request that the Contractor promptly correct work that is defective or fails to conform to the agreed Work.
 
 [head=3][head=2]8. [/head]Right to Stop Work[/head]
-The Client shall have the right to order the imediate halt of the Contractors work if the Contractor fails to rectify any defective or incorrect work until the cause for such order is eliminated.
+The Client shall have the right to order the immediate halt of the Contractors work if the Contractor fails to rectify any defective or incorrect work until the cause for such order is eliminated.
 
 [head=3][head=2]9. [/head]Disputes[/head]
-Any dispute arising rom this Contract is to be solved through mediation. If the dispute cannot be solved through mediation, it will continue to the station court to be settled by a station appointed judge. If a station appointed judge is not avaliable, Central Command may be tasked to provide or appoint a judge. If Central Command is not avaliable, it shall be God's problem.
+Any dispute arising from this Contract is to be solved through mediation. If the dispute cannot be solved through mediation, it will continue to the station court to be settled by a station appointed judge. If a station appointed judge is not available, Central Command may be tasked to provide or appoint a judge. If Central Command is not available, it shall be God's problem.
 
 [head=3][head=2]10. [/head]Governing Law[/head]
 This Contract shall be governed under the laws of The NanoTrasen Court of Space.
