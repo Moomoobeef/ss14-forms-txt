@@ -1,0 +1,32 @@
+Here are some horizontal lines, you can use these as a seperator, as page decorations, or whatever.
+These are made to fit the default width of [bold]Regular Paper[/bold], for office paper, you may have to shorten them as office paper is narrower.
+
+
+──────────────────────────────────────────
+
+══════════════════════════════════════════
+
+══──══──══──══──══──══──══──══──══──══──══
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+══  ══  ══  ══  ══  ══  ══  ══  ══  ══  ══  ══  ══  ══  ══  ═
+
+ ……………………………………………………………………………………………
+
+▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲
+
+ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
+
+   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪
+
+//////////////////////////////////////////////////////////////////
+
+[head=2]    ──────═════  [head=1]☺[/head]  ═════──────[/head]
+(feel free to replace the smiley with other symbols such as ☻♥♪♫♣♦♠☼∆)
+
+You can also do these with alternating colors, stuff like this!
+
+[color=green]▲[color=yellow]▼[/color]▲[color=yellow]▼[/color]▲[color=yellow]▼[/color]▲[color=yellow]▼[/color]▲[color=yellow]▼[/color]▲[color=yellow]▼[/color]▲[color=yellow]▼[/color]▲[color=yellow]▼[/color]▲[color=yellow]▼[/color]▲[color=yellow]▼[/color]▲[color=yellow]▼[/color]▲[color=yellow]▼[/color]▲[color=yellow]▼[/color]▲[color=yellow]▼[/color]▲[/color]

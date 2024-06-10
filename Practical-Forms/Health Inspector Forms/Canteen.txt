@@ -1,0 +1,39 @@
+# Canteen Health Inspection Checklist
+══════════════════════════════════════════
+[head=2]HEALTH INSPECTION CHECKLIST[/head]
+[head=3]Canteen Health, Cleanliness, & Safety[/head]
+══════════════════════════════════════════
+Inspector Name:    [color=#002AAF]Sample Name[/color]
+                    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Major Violations:[/bold]
+\[  ] Live animals allowed to roam the canteen
+\[  ] Organs/carcasses/rotting meat present
+\[  ] Excessive blood on the floor
+\[  ] Unsafe chemicals present (gasoline, meth, etc.)
+\[  ] Radioactive materials present
+
+All major violations must be rectified as soon as possible.
+If more than one major violation is present, the canteen must be closed until violations are rectified.
+Any major violations warrants an automatic F score.
+
+[bold]Minor Violations:[/bold]
+1 \[  ] Foods not served on plates
+2 \[  ] Trash not picked up
+2 \[  ] Excessive spilt liquids
+3 \[  ] Animals present near where people eat
+3 \[  ] Uncleaned vomit
+3 \[  ] Cockroaches/mothroaches present
+
+[bold]Additional observations & deductions: [/bold]
+[color=#002AAF]Additional problems noted by the inspector.[/color]
+
+
+[bold]Tally points from all violations: [/bold]
+0-1: A
+2-3: B
+4: C
+5: D
+6+: F
+
+The canteen scored a [color=#002AAF]GRADE[/color]. The service staff are advised to work on the following improvements:
+[color=#002AAF]Notes from inspector.[/color]

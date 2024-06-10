@@ -1,0 +1,45 @@
+# Kitchen Health Inspection Checklist
+══════════════════════════════════════════
+[head=2]HEALTH INSPECTION CHECKLIST[/head]
+[head=3]Kitchen Health, Cleanliness, & Safety[/head]
+══════════════════════════════════════════
+Inspector Name:    [color=#002AAF]Sample Name[/color]
+                    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Major Violations:[/bold]
+\[  ] Live animals allowed to roam the kitchen
+\[  ] Organs/carcasses/rotting meat present
+\[  ] Excessive blood on the floor in food prep areas
+\[  ] Unsafe chemicals in food prep areas (gasoline, meth, etc.)
+\[  ] Radioactive materials present
+
+All major violations must be rectified as soon as possible.
+If more than one major violation is present, the kitchen must not be allowed to serve food until violations are rectified.
+Any major violations warrants an automatic F score.
+
+[bold]Minor Violations:[/bold]
+1 \[  ] Insufficient light for safe food prep
+1 \[  ] No options for moths (cloth)
+1 \[  ] No options for vegans (meat/animal byproduct free)
+1 \[  ] No options for lizards (meat required)
+1 \[  ] Foods not served on plates
+1 \[  ] Botanical ingredients kept un-refrigerated
+2 \[  ] No mouse traps present
+2 \[  ] Meat kept un-refrigerated
+2 \[  ] Meat spike near food-prep area
+3 \[  ] Animals kept near food-prep area
+3 \[  ] Food contains rat meat
+3 \[  ] Cockroaches/mothroaches in food-prep area
+
+[bold]Additional observations & deductions: [/bold]
+[color=#002AAF]Additional problems noted by the inspector.[/color]
+
+
+[bold]Tally points from all violations: [/bold]
+0-2: A
+3-4: B
+5-6: C
+7-8: D
+9+: F
+
+The kitchen scored a [color=#002AAF]GRADE[/color]. The chef(s) is(are) advised to work on the following improvements:
+[color=#002AAF]Notes from inspector.[/color]

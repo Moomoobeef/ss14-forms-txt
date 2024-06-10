@@ -1,0 +1,52 @@
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█
+█  [head=1]Title Decorations[/head]
+█  [head=3]Subtitle words[/head]
+
+══════════════════════════════════════════
+[head=2]Title[/head]
+[head=3]Subtitle[/head]
+══════════════════════════════════════════
+
+[color=#aaaaaa]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[head=1]TITLE[/head]
+[color=#aaaaaa]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+
+[head=3]TITLE[/head]  [color=#e5e5e5]███████████████████████████████[/color]
+
+[color=#1b67a5]█▄ █ ▀█▀    [head=3]Title[/head]
+█ ▀█     █        Line 1
+                       Line 2
+                       Line 3[/color]
+──────────────────────────────────────────
+
+╔═══════════════
+║ [head=2]Title[/head]
+║	
+
+╓───────
+║[head=3]Title[/head]
+
+►──────
+  [head=2]Title[/head]
+
+▐
+▐ [head=2]Title[/head]
+▐
+
+▐▌
+▐ [head=3]Title[/head]
+▐▌
+
+[head=3][head=2]§1.4-2[/head] Section Title[/head]
+
+[head=3][head=2]1. [/head]Numbered Title[/head]
+
+[head=3][head=2]► [/head]Bulleted Title[/head]
+
+[head=3][head=2]● [/head]Bulleted Title[/head]
+
+[head=3][head=2]□ [/head]Unchecked Title[/head]
+
+[head=3][head=2]■ [/head]Checked Title[/head]
+
