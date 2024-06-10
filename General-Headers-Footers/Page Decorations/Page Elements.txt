@@ -1,0 +1,41 @@
+page elements:
+
+[head=1],,[/head]
+║ Quote Block
+║ Second Line
+╙─── Quote Author
+
+Hirearchecial list
+├Item 1
+├Item 2
+├Item 3
+ │├Item 3.1
+ │└Item 3.2
+├Item 4
+└Item 5
+(The "│" character is not correctly aligned with the other box-drawing characters, so a hair space " " is used to bring it into alignment.)
+
+(  ) Singular choice question
+(  ) Nested singular choice question
+  -  (  ) Choice a
+  - 	(  ) Choice b
+  - 	(  ) Choice c
+  - 	(  ) Choice d
+(  ) Other:    [color=#002AAF]Sample other[/color]
+                    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+Question:  [color=#002AAF]Sample answer[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+\[  ] Multiple choice question
+\[  ] Nested multiple choice question
+  - 	\[  ] Choice a
+  - 	\[  ] Choice b
+  - 	\[  ] Choice c
+  - 	\[  ] Choice d
+\[  ] Other:    [color=#002AAF]Sample other[/color]
+                    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Large question:
+    [color=#002AAF]Sample Large Answer[/color]
+
+
+                                  [bold]═══╣ Stamp Below ╠═══[/bold]

@@ -1,0 +1,14 @@
+[color=gray]░░░░░███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░[/color]▌100%
+[color=gray]░░░░░███░░░░░░░░░░░░░░░░░░░░░███░░░░░[/color]▌87.5%
+[color=gray]░░░░░███░░░░░▄▄▄░░░░░░░░░░░░░███░░░░░[/color]▌75.0%
+[color=gray]░░░░░███░░░░░███░░░░░░░░░░░░░███░░░░░[/color]▌62.5%
+[color=gray]░░░░░███░░░░░███░░░░░░░░░░░░░███░░░░░[/color]▌50.0%
+[color=gray]░░░░░███░░░░░███░░░░░░░░░░░░░███░░░░░[/color]▌37.5%
+[color=gray]░░░░░███░░░░░███░░░░░░░░░░░░░███░░░░░[/color]▌25.0%
+[color=gray]░░░░░███░░░░░███░░░░░███░░░░░███░░░░░[/color]▌12.5%
+[color=gray]░░░░░███░░░░░███░░░░░███░░░░░███░░░░░[/color]▌0%
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+           Item #1             │              Item #3             │
+                                Item #2                              Item #4
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
