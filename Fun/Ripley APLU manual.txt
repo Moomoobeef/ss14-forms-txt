@@ -1,0 +1,34 @@
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█
+█  [head=1]Ripley APLU guide[/head]
+█  [head=3]Written by K.K.4[/head]
+█  [head=3]Transcribed by Tom Carter[/head]
+
+The Ripley APLU is a Construction Mech developed by your Science department for the Supply department. It is used for logistical tasks such as picking up and moving heavy cargo.
+
+╔═══════════════
+║ [head=2]Construction[/head]
+First, make sure the Ripley APLU is researched. It is a tier 1 industrial unlock, as well as making sure you have all the parts ready. You can create all five parts of the Ripley at the Exosuit fabricator, and the circuits needed are in the circuit imprinter. Remember to grab LV cables, a power cell, and about ten extra steel sheets.
+
+Now to construct the Ripley, assemble all four limbs on top of the harness. Then wrench and screw all the parts on tight. Add the LV cables, and use a wirecutter to snip them into shape. Add the circuits and screw them in, as well as the power cell. Find a welding mask, and add five sheets of steel to the Ripley in order to seal all the internal components. Wrench the externals on and weld them to stability. Finally, add ten rods for protection and weld them around the cockpit. 
+
+╔═══════════════
+║ [head=2]Controls[/head]
+The Ripley only has three buttons to worry about. Swap Equipment, View Stats, and Eject Pilot.
+The [bold]Swap Equipment[/bold] button allows you to swap between available equipment. By default, nothing is selected.
+The [bold]View Stats[/bold] button allows you to see the Integrity of the Ripley as well as the Energy of the power cell inside. It also allows you to see and eject equipped modules, as well as preforming certain actions with the modules.
+The [bold]Eject[/bold] button is self explanatory. It removes the pilot from the Ripley.
+
+╔═══════════════
+║ [head=2]Modules[/head]
+The Ripley has four modules available at the time of writing this guide:
+[bold]Nothing Selected[/bold] - The default module active when the Ripley is first constructed. Allows the Ripley to punch objects and creatures.
+[bold]Hydraulic Clamp[/bold] - Allows the Ripley to grab up to ten items, with very little restriction. To eject an item, open the View Stats menu and click on the item's name.
+[bold]Small Hydraulic Clamp[/bold] - Ditto as above, but with only 4 slots.
+[bold]H.O.N.K. Horn[/bold] - Lets you play various sounds in the view stats menu.
+
+╔═══════════════
+║ [head=2]Usage[/head]
+Using the controls and modules mentioned above, you should be able to complete logistical tasks much faster than an un-mechanized worker. Assuming your Ripley is equipped with a hydraulic clamp, practice picking things up and putting them down to get accustomed to using it.
+
+[head=3]Congratulations on your newfound competence in utilizing the Ripley APLU, and happy lifting!
