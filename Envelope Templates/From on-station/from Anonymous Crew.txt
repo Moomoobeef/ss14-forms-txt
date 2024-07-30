@@ -1,0 +1,4 @@
+[head=2][color=#6e6e6e]Intra-Station Postal[/color][/head]
+[bold]DELIVER TO: [/bold] SAMPLE NAME
+
+[bold]THE SENDER OF THIS PARCEL HAS REQUESTED TO REMAIN ANONYMOUS[/bold]

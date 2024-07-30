@@ -1,0 +1,9 @@
+Hello!
+Envelopes exist now, and you can write on them. I've made a number of templates.
+There are some pre-made templates for specific usecases seen in the "From off-station" and "From on-station" folders.
+If you want to be slightly more original you can use the templates in the style folder.
+There is also the "Additional Blurbs" folder. These have little bits of text that you can add on top of an existing format. For instance an official letter from centcom might have the "CONFIDENTIAL INFORMATION ENCLOSED" blurb added to it.
+
+Have fun making your ultra-immersive letters.
+
+PS: if you have any idea for additions to these templates or anywhere else on the repo, feel free to share them with me either by shooting me a message on discord or by making a PR

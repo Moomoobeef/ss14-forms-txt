@@ -1,0 +1,6 @@
+[head=2][color=#1b67a5]NT Business Mail[/color][/head]
+[bold]DELIVER TO: [/bold] SAMPLE NAME
+
+[bold]SAMPLE BUSINESS/FIRM[/bold]
+Located at LOCATION
+[italic]Sample slogan.[/italic]
