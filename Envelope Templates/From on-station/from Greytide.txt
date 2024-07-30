@@ -1,0 +1,6 @@
+[head=2][color=#6e6e6e]Intra-Station Postal[/color][/head]
+[bold]DELIVER TO: [/bold] SAMPLE NAME
+
+[bold]FROM: [/bold]
+John Passenger,
+[italic]Passenger of NT14 Core PR-675[/italic]
