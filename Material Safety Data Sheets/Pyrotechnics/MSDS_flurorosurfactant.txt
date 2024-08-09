@@ -1,0 +1,38 @@
+[color=#1b67a5]█▄ █ ▀█▀    [head=3]Material Safety Data Sheet[/head]
+█ ▀█     █        Complies with Space OSHA Hazard
+                       Communication Standard 29 CFR 1910.1200
+
+[head=3]Flurorosurfactant[/head][/color]
+──────────────────────────────────────────
+[head=3]Section 1. Product Identification[/head]
+
+[bold]Product Name:[/bold] Flurorosurfactant
+[bold]Product Type:[/bold] Pyrotechnics
+[bold]Product Use(s):[/bold]
+foaming agent
+
+──────────────────────────────────────────
+[head=3]Section 2. Hazard(s) & First Aid[/head]
+
+This chemical will create a chemical foam that can expand to 500 times its original volume when mixed with water. This foam can also carry other chemicals that were in solution with the flurorosurfactant into the foam, creating a wide area containing said chemicals.
+
+This can lead to accidental ingestion of solution chemicals. For this reason flurorosurfactant is to be treated with the utmost care and kept in a sealed container away from water.
+
+[bold]Flammability Considerations:[/bold]
+\[  ] Highly Flammable
+\[X] Store in a sealed container
+\[  ] May Spontaneously Combust
+
+──────────────────────────────────────────
+[head=3]Section 3. Medical Uses & Side Effects[/head]
+
+None Applicable.
+
+──────────────────────────────────────────
+[head=3]Section 4. Regulatory Rules[/head]
+
+This chemical is [bold]controlled[/bold] and can only be produced/used [bold]with permission of the Head of Security [italic]and[/italic] the Chief Medical Officer.[/bold]
+
+──────────────────────────────────────────
+
+[head=3]DISCLAIMER:[/head] The data contained herein are furnished for information only and are believed to be reliable. However, NanoTrasen and its affiliates (“Central Command”) does not assume responsibility for any results obtained by persons over whose methods NanoTrasen has no control. It is the user’s responsibility to determine the suitability of NanoTrasen’s products or any production methods mentioned herein for a particular purpose, and to adopt such precautions as may be advisable for the protection of property and persons against any hazards that may be involved in the handling and use of any NanoTrasen’s products. In light of the foregoing, NanoTrasen specifically disclaims all warranties, express or implied, including warranties of merchantability and fitness for a particular purpose, arising from sale or use of NanoTrasen’s products. NanoTrasen further disclaims any liability for consequential or incidental damages of any kind, including lost profits. 
