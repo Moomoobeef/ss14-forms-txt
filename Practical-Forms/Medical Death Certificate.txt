@@ -11,12 +11,12 @@ Coroner Name:         [color=#002AAF]Sample Name[/color]
 Deceased Name:      [color=#002AAF]Sample Name[/color]
                              ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 Deceased Species:
-\[  ] Human             \[  ] Lizard             \[  ] Slime
-\[  ] Dwarf               \[  ] Arachnid        \[  ] Diona
-\[  ] Moth                 \[  ] Other:    [color=#002AAF]Sample Species[/color]
+(  ) Human             (  ) Lizard             (  ) Slime
+(  ) Dwarf               (  ) Arachnid        (  ) Diona
+(  ) Moth                 (  ) Other:    [color=#002AAF]Sample Species[/color]
                                                      ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 Physical Appearance:
-\[  ] Male      \[  ] Female    \[  ] Not Applicable/Neither
+(  ) Male      (  ) Female    (  ) Not Applicable/Neither
 Skin Tone:              [color=#002AAF]Sample Color[/color]
                              ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 Role:                        [color=#002AAF]Sample Job[/color]
