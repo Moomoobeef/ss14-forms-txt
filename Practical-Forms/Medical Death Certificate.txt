@@ -1,7 +1,7 @@
 # Medical Death Certificate
-[color=white]░░░[/color][color=#8EE5EE]██[/color][color=white]░░░[/color]
-[color=white]░[/color][color=#8EE5EE]▐████▌[/color][color=white]░[/color]      [head=2][bold]Medical Death Certificate[/bold][/head]
-[color=white]░░░[/color][color=#8EE5EE]██[/color][color=white]░░░[/color]
+[color=white]░░░[/color][color=#5B97BC]██[/color][color=white]░░░[/color]
+[color=white]░[/color][color=#5B97BC]▐████▌[/color][color=white]░[/color]      [head=2][bold]Medical Death Certificate[/bold][/head]
+[color=white]░░░[/color][color=#5B97BC]██[/color][color=white]░░░[/color]
 ─────────────────────────────────────────
 
 This document certifies the permanent death of an individual who can not, or will not, be revived.
