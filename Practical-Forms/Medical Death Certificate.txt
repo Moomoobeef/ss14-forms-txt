@@ -1,0 +1,47 @@
+# Medical Death Certificate
+[color=white]░░░[/color][color=#5B97BC]██[/color][color=white]░░░[/color]
+[color=white]░[/color][color=#5B97BC]▐████▌[/color][color=white]░[/color]      [head=2][bold]Medical Death Certificate[/bold][/head]
+[color=white]░░░[/color][color=#5B97BC]██[/color][color=white]░░░[/color]
+─────────────────────────────────────────
+
+This document certifies the permanent death of an individual who can not, or will not, be revived.
+
+Coroner Name:         [color=#002AAF]Sample Name[/color]
+                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Deceased Name:      [color=#002AAF]Sample Name[/color]
+                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Deceased Species:
+(  ) Human             (  ) Lizard             (  ) Slime
+(  ) Dwarf               (  ) Arachnid        (  ) Diona
+(  ) Moth                 (  ) Other:    [color=#002AAF]Sample Species[/color]
+                                                     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Physical Appearance:
+(  ) Male      (  ) Female    (  ) Not Applicable/Neither
+Skin Tone:              [color=#002AAF]Sample Color[/color]
+                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Role:                        [color=#002AAF]Sample Job[/color]
+                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Cause of Death:    [color=#002AAF]Sample Cause[/color]
+                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Place of Death:    [color=#002AAF]Sample Place[/color]
+                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Time of Death:      [color=#002AAF]Sample Time[/color]
+                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Reason(s) cadaver is not revivable (select all that apply):
+\[  ] Rotted
+\[  ] Severely damaged (e.g. more than 500 damage)
+\[  ] Irreparably damaged (e.g. more than 200 poison)
+\[  ] Cremated
+\[  ] Gibbed
+\[  ] No cadaver
+\[  ] Soul departed
+\[  ] Legally prohibited (attach relevant documentation)
+\[  ] Unknown (not responding to revival attempts)
+\[  ] Other:     [color=#002AAF]Sample Reason[/color]
+                     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Resting Place:
+(  ) Morgue
+(  ) Chapel
+(  ) Unknown
+(  ) Other:     [color=#002AAF]Sample Place[/color]
+                     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
