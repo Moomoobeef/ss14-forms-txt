@@ -1,0 +1,9 @@
+[color=#b18644]░░░░░░ [head=2]Cargo Memo[/head]
+░█▀▀█░ [head=3]Subject:  [/head]
+░████░ [head=3]From:  [/head]
+[/color]──────────────────────────────────────────
+    BODY
+
+
+──────────────────────────────────────────
+Sincerely, NAME.
