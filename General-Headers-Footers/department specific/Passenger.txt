@@ -1,0 +1,9 @@
+[color=#6e6e6e]░██▀▀█ [head=2]Passenger Memo[/head]
+░██▀▀▀ [head=3]Subject:  [/head]
+░██░░░[head=3]From:  [/head]
+[/color]──────────────────────────────────────────
+    BODY
+
+
+──────────────────────────────────────────
+Sincerely, NAME.

@@ -1,0 +1,9 @@
+[color=#9fed58]█░█░▄█ [head=2]Service Memo[/head]
+░█░░██ [head=3]Subject:  [/head]
+░█░░░█[head=3]From:  [/head]
+[/color]──────────────────────────────────────────
+    BODY
+
+
+──────────────────────────────────────────
+Sincerely, NAME.
