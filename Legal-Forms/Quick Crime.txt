@@ -46,3 +46,5 @@
 ─────────────────────────────────────────
 [color=#134975][head=2]Total Time:
 [bold]XX mins[/bold][/head][/color]
+
+[italic][color=#aaaaaa]Nested crimes do not stack, only use most sever offence[/color][/italic]
