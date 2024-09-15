@@ -47,4 +47,6 @@
 [color=#134975][head=2]Total Time:
 [bold]XX mins[/bold][/head][/color]
 
-[italic][color=#aaaaaa]Nested crimes do not stack, only use most sever offence[/color][/italic]
+[italic][color=#aaaaaa]All times are maximum but not recommended sentences.
+Nested crimes do not stack, only use most sever offence.
+Give more leniency for first time offences and compliance. [/color][/italic]
