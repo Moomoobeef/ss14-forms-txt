@@ -1,0 +1,21 @@
+                                [color=#1b487e]╔══════════════════╗
+                                ║███░███░░░░██░░░░░║
+                                ║░██░████░░░██░░░░░║
+                                ║░░█░██░██░░██░█░░░║
+                                ║░░░░██░░██░██░██░░║
+                                ║░░░░██░░░████░███░║
+                                ╚══════════════════╝[/color]
+                                     [bold][head=1]NanoTrasen[/ head]
+                                [head=1][color=#1b487e]Current Station[/color]
+[/head][/bold]
+                                      [head=2][bold]Execution Order[/bold][/head]
+─────────────────────────────────────────
+
+Prisoner Name: [color=#1b67a5] Sample[/color] 
+
+Prisoner Crime: [color=#1b67a5] Sample[/color] 
+
+[/center]─────────────────────────────────────────
+I, [color=#1b67a5] Sample[/color] , hereby authorize the execution of the above listed prisoner.
+─────────────────────────────────────────
+Signature of Head of Security or Captain: [color=#1b67a5] Sample[/color] 
