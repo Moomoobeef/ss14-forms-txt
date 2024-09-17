@@ -1,0 +1,42 @@
+# Restricted Items Permit
+[color=#1b67a5]█▄ █ ▀█▀    [head=3]Restricted Items Permit[/head]
+█ ▀█     █        [color=red]This document invalid unless stamped[/color][/color]
+──────────────────────────────────────────
+This permit is to be used to issue exceptions to restricted items policy to specified personnel as allowed under NT Space Law §1-5.2
+
+[head=2]1) Recipient[/head]
+Recipient name:   [color=#002AAF]Sample Person[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Permit Reason:     [color=#002AAF]Sample Reason[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[head=2]2) Items[/head]
+Allowed Item(s):
+ - [color=#002AAF]Sample Item[/color]
+ - [color=#002AAF]Sample Item[/color]
+ - [color=#002AAF]Sample Item[/color]
+ - [color=#002AAF]Sample Item[/color]
+
+The Item(s) permitted are the following levels of Contraband:
+\[  ] Major Contraband
+[color=#888888](Security and Command Items are Major Contraband unless stated otherwise.)[/color]
+\[  ] Minor Contraband
+[color=#888888](All other departments Items are Minor Contraband unless stated otherwise.)[/color]
+\[  ] Central Command Restricted
+[color=red][bold]Exceptions can not and will not be made for Syndicate and other non-NT Items.[/bold][/color]
+
+[head=2]3) Authorization[/head]
+╒═════════════╤═══════════════╕
+ │Contraband Type   │Permitted Granter(s)  │
+╞═════════════╪═══════════════╡
+ │Minor                         │Captain, HoS                 │
+├─────────────┼───────────────┤
+ │Major                         │Captain Only                  │
+├─────────────┼───────────────┤
+ │Central Command  │Central Command        │
+└─────────────┴───────────────┘
+[italic]Please refer to the figure above and ensure that this document is stamped appropriately in order to be valid. Multiple contraband types can be approved so long as atleast one of the granters for each type on the document has stamped.[/italic]
+
+
+[color=#BBBBBB]This permission can be revoked at any time by the individual who granted it or the next in succesion.
+Abusing permissions granted to you by command officers is not recommended.
+Those who abuse granted permission can be fined up to 5000 spesos pursuant NT Handbook §16-8.7c[/color]
