@@ -1,0 +1,56 @@
+# Civil Lawsuit
+[head=3]NanoTrasen Sanctioned Space Court (NSSC)
+Official Civil Lawsuit Template.[/head]
+[color=#404040]//////////////////////////////////////////////////////////////////[/color]
+This lawsuit is to be tried under the conventions and legislation of NT Space Laws, by a qualified station judge.
+[italic]This template is for use in Civil court, not criminal court.[/italic]
+
+[head=2]§1) The Parties[/head]
+[head=3]    <PLANTIFF NAME>
+            Plantiff,
+        v.
+    <DEFENDANT NAME>
+            Defendant.[/head]
+
+[head=2]§2) The Complaints[/head]
+The Plantiff brings forth to the court and alledges the following:[italic][color=blue]
+<Insert your complaint here. Basically, what the defendant did wrong, what laws were broken, how it affects you, why you should be awarded your damages, etc. try to embelish without being dishonest (I.E. not very much embelishment)>[/italic][/color]
+
+The Plantiff and the Plantiff's lawyer(s) agree that the complaints of or on behalf of the Plantiff are honest and are factual to the best of the Plantiff's abilities.
+
+[head=2]§3) The Compensation[/head]
+Below is the breakdown of the damages the Plantiff claims to have sustained [italic]not including Punitive Damages awarded by the court[/italic]. The Plantiff expects to receive compensation for the damages they have sustained.
+[bold]The breakdown of damages are as follows:[/bold]
+[italic](The first figure is Compensatory Damage, the second is Non-Compensatory Damage.)[/italic]
+
+[head=3]Economic[/head]
+├[bold]Loss of Earnings:[/bold] $<AMOUNT>, $<AMOUNT>
+├[bold]Property Damage:[/bold] $<AMOUNT>, $<AMOUNT>
+├[bold]Medical Expenses:[/bold] $<AMOUNT>, $<AMOUNT>
+├[bold]Funeral/Burial Expenses:[/bold] $<AMOUNT>, $<AMOUNT>
+└[bold]Other:[/bold] <TYPE>, $<AMOUNT>, $<AMOUNT>
+[head=3]Non-Economic[/head]
+├[bold]Pain & Suffering:[/bold] $<AMOUNT>, $<AMOUNT>
+├[bold]Inconvenience:[/bold] $<AMOUNT>, $<AMOUNT>
+├[bold]Emotional Distress:[/bold] $<AMOUNT>, $<AMOUNT>
+├[bold]Loss of Consortium:[/bold] $<AMOUNT>, $<AMOUNT>
+├[bold]Impairment of Quality of Life:[/bold] $<AMOUNT>, $<AMOUNT>
+└[bold]Other:[/bold] <TYPE>, $<AMOUNT>, $<AMOUNT>
+
+TOTAL COMPENSATORY: $<AMOUNT>
+TOTAL NON-COMPENSATORY: $<AMOUNT>
+[color=#000000][head=3]TOTAL DAMAGES: $<AMOUNT>[/color][/head]
+
+[head=2]§4) The Evidence[/head]
+The Plantiff has provided the following pieces of evidence.
+[bold]Exhibit A) [/bold]<BRIEF DESCRIPTION OF EVIDENCE>
+[bold]Exhibit B) [/bold]<BRIEF DESCRIPTION OF EVIDENCE>
+[bold]Exhibit C) [/bold]<BRIEF DESCRIPTION OF EVIDENCE>
+(modify this section for however many peices of evidence you want to use. If you have none simply replace the text below the header as "The Plantiff has not provided any evidence to the court.")
+
+[head=2]§5) The Witnesses[/head]
+The Plantiff has named the following individuals as witnesses:
+ - <FIRST & LAST NAME>, <REASONING>
+ - <FIRST & LAST NAME>, <REASONING>
+ - <FIRST & LAST NAME>, <REASONING>
+(same deal as section 4)

@@ -1,7 +1,7 @@
 # Forensic Crime Report
-[color=#624f39]█▀█    █      [head=3]Private Investigator [/head]
-█▀▀    █       [bold]Forensic Crime Report[/bold]
-█           █      [/color]
+[color=#cb0000]░░▄▀▀▄ [head=2]Detective Memo[/head]
+░░█▄▄▀ [bold]Forensic Crime Report[/head]
+▄▀░░░░ [/color]
 ──────────────────────────────────────────
 
 Crime Comitted:    [color=#002AAF]Sample Crime[/color]
