@@ -1,0 +1,41 @@
+[color=#1b67a5]█▄ █ ▀█▀    [head=3]Material Safety Data Sheet[/head]
+█ ▀█     █        Complies with Space OSHA Hazard
+                       Communication Standard 29 CFR 1910.1200
+
+[head=3]Nocturine[/head][/color]
+──────────────────────────────────────────
+[head=3]Section 1. Product Identification[/head]
+
+[bold]Product Name:[/bold] Nocturine
+[bold]Product Type:[/bold] Narcotic
+[bold]Product Use(s):[/bold]
+Sedative, Hypnotic
+
+──────────────────────────────────────────
+[head=3]Section 2. Hazard(s) & First Aid[/head]
+
+[bold]Potential Acute Health Effects:[/bold]
+Intense Sleepiness, Unconciousness
+
+[bold]Potential Chronic Health Effects:[/bold]
+None Known
+
+[bold]Flammability Considerations:[/bold]
+\[  ] Highly Flammable
+\[  ] Store in a sealed container
+\[  ] May Spontaneously Combust
+
+──────────────────────────────────────────
+[head=3]Section 3. Medical Uses & Side Effects[/head]
+
+None Applicable.
+
+──────────────────────────────────────────
+[head=3]Section 4. Regulatory Rules[/head]
+
+[bolditalic]This chemical is ILLEGAL and CANNOT be produced, used, or possessed by any staff on the station for any reason.[/bolditalic]
+
+──────────────────────────────────────────
+
+[head=3]DISCLAIMER:[/head] The data contained herein are furnished for information only and are believed to be reliable. However, NanoTrasen and its affiliates (“Central Command”) does not assume responsibility for any results obtained by persons over whose methods NanoTrasen has no control. It is the user’s responsibility to determine the suitability of NanoTrasen’s products or any production methods mentioned herein for a particular purpose, and to adopt such precautions as may be advisable for the protection of property and persons against any hazards that may be involved in the handling and use of any NanoTrasen’s products. In light of the foregoing, NanoTrasen specifically disclaims all warranties, express or implied, including warranties of merchantability and fitness for a particular purpose, arising from sale or use of NanoTrasen’s products. NanoTrasen further disclaims any liability for consequential or incidental damages of any kind, including lost profits. 
+
