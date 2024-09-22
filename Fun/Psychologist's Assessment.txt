@@ -1,11 +1,11 @@
-# Psychologist's Assessment
-                                                   ░░██░░ 
+# Psychologist's Assessment                                   
+                                                [color=#5b97bc]   ░░██░░ 
                                                    ██████ 
                                                    ░░██░░ 
-                                ╔══════════════════╗
-                             Station  Medical
-                            Psychiatric Analysis and 
-                                Evaluation
+                    [bold][head=2]╔══════════════════╗
+                          Station  Medical
+                  Psychiatric Analysis and 
+                               Evaluation[/color][/bold][/head]
 
 Patient:  Sample 
 
