@@ -1,7 +1,7 @@
 # Forensic Death Report
-[color=#624f39]█▀█    █      [head=3]Private Investigator [/head]
-█▀▀    █       [bold]Forensic Death Report[/bold]
-█           █      [/color]
+[color=#cb0000]░░▄▀▀▄ [head=2]Detective Memo[/head]
+░░█▄▄▀ [bold]Forensic Death Report[/head]
+▄▀░░░░ [/color]
 ──────────────────────────────────────────
 
 Cadaver Name:    [color=#002AAF]Sample Name[/color]
