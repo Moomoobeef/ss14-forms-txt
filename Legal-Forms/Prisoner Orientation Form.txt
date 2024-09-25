@@ -7,7 +7,7 @@
 ───────────────────────────────────────── 
 [head=1]     [bold]New Prisoner Orientation
                       Guide [/bold] [/head] [/center]
-───────────────────────────────────────── [/head]
+─────────────────────────────────────────
 Welcome to the brig, new inmate! You are here because you've been found guilty of criminal activity and have been sentenced to serve time within the confines of the brig. The arresting officer should have by now informed you of your charges and set your sentence with the [color=#1b67a5] Station[/color] 's automatic cell system. You can view the time left on your sentence on the helpful display right outside your brig door. Once this time is up, you will be free to go about your business aboard the [color=#1b67a5] Station[/color] .
 
 Here are some important things to note during your stay:
