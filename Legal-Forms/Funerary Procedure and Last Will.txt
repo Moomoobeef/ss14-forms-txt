@@ -1,0 +1,33 @@
+[color=#9fed58]╔══════════════════╗
+                                ║███░███░░░░██░░░░░║
+                                ║░██░████░░░██░░░░░║
+                                ║░░█░██░██░░██░█░░░║
+                                ║░░░░██░░██░██░██░░║
+                                ║░░░░██░░░████░███░║
+                                ╚══════════════════╝[/color]
+                                            [head=3]NanoTrasen[/ head]
+                                     [head=3][color=#9fed58]Funeral Intructions[/color][/head]
+[bold]─────────────────────────────────────────[/bold]
+
+[head=2][italic]Upon untimely demise, ___[color=#5b97bc]NAME HERE[/color]___ requests the following:[/italic][/head] 
+
+[color=#aaaaaa][italic]choose one, items marked with * may not be availible in all stations and will be carried out by Central Command[/color][/italic]
+  -  (  ) Morgue
+  - 	(  ) Cremation
+  - 	(  ) Burial*
+  - 	(  ) Borgifying
+  -  (  ) Spacing/"Apollon Funeral" 
+  -  (  ) Cloning*
+(  ) Other:    [color=#002AAF]OTHER[/color]
+                    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+
+
+[head=4][italic]**Optional
+I, [color=#5b97bc]NAME HERE[/color], leave my belongings to [color=#5b97bc]NAME HERE[/color][/italic][/head]
+[italic][color=#aaaaaa] All assests will be reclaimed by Nanotrasen upon the end of the shift. [/color][/italic]
+
+[head=3] Signatures and Stamps:[/head]
+___[color=#018a0f]WILL SIGNER'S NAME HERE[/color]___
+___[color=#018a0f]NEXT OF KIN'S NAME HERE**[/color]___
+___[color=#018a0f]COMMAND MEMBER SIGNATURE AND STAMP[/color]___
