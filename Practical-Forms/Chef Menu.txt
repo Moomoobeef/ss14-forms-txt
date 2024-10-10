@@ -1,0 +1,48 @@
+[color=black]▒█▒█▒█▒                        [color=#134975][head=2]Space menu[/head][/color]
+█▒█▒█▒█      [color=green][bold](0)[/bold][/color]: Easy to make / common ingredients.
+   █████         [color=blue][bold](1)[/bold][/color]: Harder recipe / uncommon ingredients.
+   █████         [color=red][bold](2)[/bold][/color]: Difficult to make / rare ingredients.
+                                 [color=purple](★)[/color] Are my personal favorites!
+[/color] If you want your order done quickly, choose from [color=green][bold](0)[/bold][/color] / [color=blue][bold](1)[/bold][/color]!
+─────────────────────────────────────────
+[head=3]Burgers:[/head]
+[color=green][bold](0)[/bold][/color] Plain burger [color=purple](★)[/color]        [color=blue][bold](1)[/bold][/color] Big Bite burger
+  |  Cheese burger            |   Five alarm burger
+  |  Tofu burger                 |   Empowered burger [color=purple](★)[/color]
+                                              |   Rat burger
+                                              |   Mcguffin
+ [head=3]Meat:[/head]
+[color=green][bold](0)[/bold][/color] Enchiladas                   [color=blue][bold](1)[/bold][/color] Fiesta kebab
+  |  BBQ ribs                        |   Rat kaebab
+  |  Meat kebab                  |   BBQ rib sandwich [color=purple](★)[/color]
+  |  Steak                              |   Soft taco
+
+[head=3]Chefs special:[/head]
+[color=green][bold](0)[/bold][/color] Boiled rice [color=purple](★)[/color]            [color=blue][bold](1)[/bold][/color] Egg-fried rice
+  |  Rice and pork               |   Beef taco supreme
+  |  Beef taco
+
+[head=3]Sides:[/head]
+[color=green][bold](0)[/bold][/color] Fries [color=purple](★)[/color]
+  |  Onion rings
+  |  Cheesy fries
+  |  Bar of gold
+  |  Bagel [color=purple](★)[/color]
+
+[head=3]Soup:[/head]
+[color=green][bold](0)[/bold][/color] Clowns tears              [color=blue][bold](1)[/bold][/color] Bowl of hot chili
+                                              |   Tomato soup
+                                              |   Meatball soup
+                                              |   Monkey's delight
+[head=3]Dessert:[/head]
+[color=green][bold](0)[/bold][/color] Pancakes                     [color=blue][bold](1)[/bold][/color] Waffles [color=purple](★)[/color]
+  |  Banana bread              |   French toast
+  |  Rice pudding [color=purple](★)[/color]        |   Brownies
+  |  Cake (Chefs choice)
+  |  Pie (Chefs choice)
+
+[head=3]Moth:[/head]
+[color=green][bold](0)[/bold][/color] Cloth / clothing (Chefs choice)
+  |  Fruit (Chefs choice)
+
+         ★ - Want something not on the menu? Just ask! - ★
