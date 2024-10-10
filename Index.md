@@ -9,6 +9,8 @@ Table of Folders:
 - **General-Headers-Footers** - Basic document templates in here
     - **Department specific** - Department-specific document templates
     - **Page Parts** - Individual page elements for use in your custom docs
+- **Guides** - Informational stuff, for learning!
+    - **Chemistry** - Guide to chemistry.
 - **Legal-Forms** - Forms/templates with a "legal document" sort of theme or purpose
     - **Det Forms** - Purpose built forms for detectives
     - **Space Law & SOP** - Documents built specifically with space law/SOP in mind *(wizden spacelaw and wizden SOP from before SOP was removed)*
