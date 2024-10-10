@@ -1,0 +1,64 @@
+# Tom's Guide to Basic Chem
+[color=#aaaaaa]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[head=1]Tom's Guide to Chemistry[/head]
+[head=2]Volume 1: Basics[/head]
+[color=#aaaaaa]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+Congratulations, by printing this informative guide you are well on your way to being an adequate chemist!
+
+This guide comes in three different volumes:
+[bold]1: Basics[/bold] - Covers basic chemistry practice, and the common chems you need.
+
+[bold]2: Advanced[/bold] - Covers more advanced chemistry.
+
+[bold]3: Cheatsheet[/bold] - A sheet containing the recipes for almost all the chems you will ever need to produce.
+
+[italic]First things first:[/italic]
+When there are multiple chemists, it is important that they act as a team. Chemists must communicate with eachother, and they may occasionally need to share resources or even equipment. You should do your utmost to ensure cooperation within your team.
+
+Now, the first things a chemist team needs when the shift starts is to make the basic medicines that any medbay needs, and to acquire plasma for some of the more advanced medicines. Plasma can usually be acquired from either science or cargo, and if they only offer you a little, that's fine. Usually you don't need a lot, and it's crucial not to waste time at the start of a shift when you could be making medicine.
+
+You may have people coming up to your window to request chemicals, such as botanists, janitors, clowns, and psychologists. You are obliged to fulfill their requests, but only once you have fulfilled the needs of the medbay. [bold]Remember: your first duty is to make medicine, not Space Cleaner or Robust Harvest[/bold]
+
+Usually as a chemist you will make medicines and put them in jugs, which you should label with a medicines name, use, and overdosage quantity. All of the information regarding a chemical, such as its usage and OD can be found in your guidebook, which all NT employees should have at all times.
+
+This guide is written assuming you have an understanding of the chemistry machinery and how to use it. If you do not, please refer to the guidebook under Jobs > Medical > Chemist.
+
+[head=3]BASIC MEDICINES[/head]  [color=#e5e5e5]██████████████████████████[/color]
+How to read this section:
+Each entry will contain a chemicals name, usage (usually what damage it treats), overdose amount (N/A if there is none) followed by the recipe to create about one full jug of it.
+
+[color=#3a1d8a]██ DYLOVENE | POISON | 20u[/color]
+[30 silicon + 30 nitrogen + 30 potassium] x2
+
+[color=#ffaa00]██ BICARIDINE | BRUTE | 15u[/color]
+[[15 oxygen + 15 sugar + 15 carbon] + 45 carbon] x2
+
+[color=#215263]██ DERMALINE | BURNS | 10u[/color]
+[[15 silicon + 15 carbon] + 30 oxygen + 30 phosphorus] x2
+
+Dermaline, Bicaridine, and Dylovene are the most basic chemicals to make first in the shift, as those three can treat the majority of patients.
+
+Some chemicals use other chemicals as precursors, for instance Arithrazine uses Hyronaline which uses Dylovene. You can create common precursors separately and store them in your ChemMaster, or you can create them "inline" in your dispenser. Both are acceptable, the latter is usually a little faster if you are good at it, but is harder.
+
+If a recipe calls for more space than you have in your beaker, you can use a jug instead, or you can use your ChemMaster to make more space.
+
+[color=#bd5902]██ ARITHRAZINE | RADIATION | No OD, but it does deal BRUTE damage gradually[/color]
+[15 silicon + 15 potassium + 15 nitrogen + 45 radium] +
+90 hydrogen
+
+Some chemicals use other chemicals as a catalyst, meaning that said chemical is not consumed in the reaction. Most medicines with plasma are an example of this. These chemicals will be labeled with CAT
+
+[color=#0041a8]██ DEXALIN | AIRLOSS | 20u[/color]
+[CAT 1 plasma + 60 oxygen] x2
+
+Some chemicals have conditions to their healing. Tricordrazine will only heal if a patients total damage is below 50, but it will heal all the basic damage types. Try to communicate this kind of info concisely in your labels.
+
+[color=#00e5ff]██ TRICORDRAZINE | BASIC DAMAGE | Heals all basic damage when under 50[/color]
+[[30 carbon + 30 oxygen + 30 sugar] +
+[30 silicon + 30 potassium + 30 nitrogen]]
+
+[color=#731024]██ INAPROVALINE | ASPHYXIATION | No OD, but only works when in critical condition[/color]
+[30 oxygen + 30 carbon + 30 sugar] x2
+
+Those are all the most important basic chemicals.
+Congratulations if you have made it to this point of the guide, you are already more competent than many chemists are! Read on to the next volume to learn more, and you can always refer to the cheatsheet if you simply want a quick reference for recipes.

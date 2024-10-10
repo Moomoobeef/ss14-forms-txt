@@ -1,0 +1,97 @@
+# Tom's Guide to Advanced Chem
+[color=#aaaaaa]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[head=1]Tom's Guide to Chemistry[/head]
+[head=2]Volume 2: Advanced[/head]
+[color=#aaaaaa]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+Welcome to Advanced Chemistry! This document assumes you have either read Volume 1, or have a working understanding of basic chemistry. If you understand conditional effects, catalysts, and how to make the basic chems, you're probably good to go!
+
+[head=3]TREATMENT TYPES[/head]  [color=#e5e5e5]█████████████████████████[/color]
+Most damage types have multiple ways they can be treated, usually topicals, basic chemicals, advanced chemicals, and cryo are possible treatments for most damage.
+
+[bold]Topicals[/bold] are usually to be reserved for emergencies when chems aren't available, due to how limited topicals can be in quantity.
+
+Most doctors prefer to use [bold]advanced chems[/bold] because they are usually faster and more resource efficient than basic ones. (your chemicals ARE limited after all)
+
+[bold]Cryo[/bold] is a good option for when a patient shuffles in with multiple damage types. Say they have 50 brute of different types, 30 burns, and 10 toxin. It would take an array of chems to treat all this, however with cryoxadone and a functioning cryo tube it can be treated with just the one chemical rather trivially.
+
+As a chemist, it's your job to cater to the doctors. If the doctors use cryo constantly, you should supply them with ample cryoxadone. If doctors tell you they want the advanced brutes, you should make them. If a doctor needs something obscure like Oculine or Ethylredoxrazine that you don't have on-hand, you should atleast make a bottle of it.
+
+[head=3]CHEMICAL SOURCES[/head]  [color=#e5e5e5]████████████████████████[/color]
+Some chemicals cannot be made with what you have on hand.
+Some can be acquired more easily than by making them with what you have on hand.
+
+The grinder is one of the most important things in a chemlab next to the Dispenser, ChemMaster, and hot plate. Chemlabs may also have a centrifuge and electrolyzer. These machines can be used to turn materials into chemicals, such as grinding Coal to get Carbon.
+
+Your guidebook will tell you what methods can be used to get chemicals that cannot be crafted.
+
+This is where botany comes into play! There are many chemicals that may be helpful to you that you will need to cooperate with botany for, examples include Stellibinin, Aloe, and Omnizine.
+
+[head=3]INTERDEPARTMENTAL COOPERATION[/head]  [color=#e5e5e5]█████████[/color]
+People from outside the medical department may ask you for chemicals, such as janitors asking for space cleaner, botany asking for EZ Nutrient, Robust Harvest, or Unstable Mutagen, clowns asking for lube, even security asking for PAX.
+
+You are not required to satisfy the requests of anyone except for your department head or the captain. But, it may be beneficial to the station for you to do so, so you can and should use your discretion. Helping botany for instance can benefit yourself as well as the chef and others. Helping the clown is sure to result in ruin for the station.
+
+[head=3]ADVANCED BRUTE MEDICATION[/head]  [color=#e5e5e5]██████████████[/color]
+The advanced brute drugs must [bold]NOT[/bold] be mixed together, as doing so will create razorium; a deadly poison that can quickly kill patients.
+
+[color=#ff3636]██ BRUIZINE | BLUNT | 10u
+DO NOT MIX WITH OTHER BRUTE CHEMS[/color]
+[27 lithium + 35 sugar + 20 carbon + 5 oxygen] x3
+
+[color=#283332]██ LACERINOL | SLASH | 12u
+DO NOT MIX WITH OTHER BRUTE CHEMS[/color]
+[50 carbon + 30 hydrogen + 5 sugar + 5 oxygen] x3
+▬ Reagents will mix when heated ▬
+
+[color=#b9bf93]██ PUNCTURASE | PIERCING | 11u
+DO NOT MIX WITH OTHER BRUTE CHEMS[/color]
+[15 hydrogen + 20 oxygen + 20 carbon + 5 sugar] x3
+▬ Reagents will mix when heated ▬
+
+[head=3]ADVANCED BURN MEDICATION[/head]  [color=#e5e5e5]██████████████[/color]
+Just like in volume 1, CAT means Catalyst
+
+[color=#ff7db5]██ LEPORAZINE | COLD | No OD[/color]
+[20 silicon + 20 iron + 40 copper + 1 CAT plasma] x2
+▬ Reagents will mix when heated ▬
+
+[color=#aa4308]██ PYRAZINE | HEAT | 15u[/color]
+Step 1. In beaker A put 1 plasma and preheat
+Setp 2. In beaker B, [35 carbon + 10 phosphorus] +
+             [10 oxygen + 5 silicon]
+step 3. In Beaker C, 10 silicon + 10 iron + 20 copper,
+             pour into beaker on the stove
+step 4. Remove 10 lepo and 1 plasma from Beaker A using
+              the ChemMaster
+step 5. Mix remaining beakers and heat until reacted
+▬ Reagents will mix when heated ▬
+
+[color=#8147ff]██ INSUZINE | SHOCK | 12u[/color]
+[35 silicon + 5 iron + 10 copper + 10 carbon + 1 CAT plasma] x3
+▬ Reagents will mix when heated ▬
+
+[head=3]OTHER ADVANCED MEDICATION[/head]  [color=#e5e5e5]██████████████[/color]
+
+[color=#4da0bd]██ DEXALIN PLUS | AIRLOSS | 25u[/color]
+[20 oxygen + 30 iron + 30 carbon + 1 CAT plasma] x2
+
+[color=#c8ff75]██ PHALANXIMINE | GENETIC | No OD, but deals radiation damage[/color]
+[10 silicon + 10 potassium + 10 nitrogen + 60 ethanol] +
+[50 radium + 20 chlorine + 20 phosphorus]
+
+[color=#0091ff]██ CRYOXADONE | ALL BASIC | No OD[/color]
+[20 oxygen + 1 CAT plasma] +
+[30 water + 30 oxygen]
+
+[color=#aa4308]██ SIGYNATE | CAUSTIC | 15u[/color]
+Step 1. 10 chlorine + 10 sodium + 15 hydrogen + 5 nitrogen +
+              20 carbon + 20 oxygen + 20 sugar, add to ChemMaster
+Step 2. 10 oxygen + 10 hydrogen + 20 sodium + 20 carbon +
+              20 silicon + 20 sugar, add to ChemMaster
+Step 3. To a beaker transfer from the ChemMaster:
+              20u of sodium carbonate, sodium hydroxide, sugar,
+              and kelotane. Add 20 water and heat until reacted.
+Step 4. Repeat step 3
+[bolditalic]There is a better and easier to make alternative to Sigynate called Siderlac, it requires you to grind aloe and galaxythistle, which you can get from botany.[/bolditalic]
+
+There are still more chemicals that may be of use that are not in volume 1 or 2. Volume 3 is much more comprehensive and detailed.
