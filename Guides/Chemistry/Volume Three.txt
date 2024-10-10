@@ -1,0 +1,150 @@
+#Tom's Cheat-Sheet to Chem
+[color=#aaaaaa]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[head=1]Tom's Guide to Chemistry[/head]
+[head=2]Volume 3: Cheat-Sheet[/head]
+[color=#aaaaaa]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+This document contains as many useful chemicals as would fit. Here is a guide to the notation:
+
+██ CHEMICAL NAME | USAGE | OVERDOSE AMOUNT
+Steps are contained inside brackets []
+
+"CAT" means a chemical is a catalyst, and is not consumed. Some chemicals are more complicated and may have unique and more complicated procedures.
+
+This document contains recipes to create full jugs, as well as proportions that you can scale to create as much as you want to. Proportions will be in parenthesis next to regular amounts. If there are no parenthesis, all parts are equal.
+
+Common names will also be shortened in order to fit more on the page. Example:
+
+[color=#4da0bd]██ DEX+ | AIRLOSS | 25u[/color]
+[20(2) oxyg + 30(3) iron + 30(3) carb + 1 CAT plasma] x2
+
+[head=3]BASIC MEDICINE[/head]  [color=#e5e5e5]███████████████████████████[/color]
+
+[color=#3a1d8a]██ DYLO | POISON | 20u[/color]
+[30 sili + 30 nitr + 30 pota] x2
+
+[color=#ffaa00]██ BICAR | BRUTE | 15u[/color]
+[[15(1) oxyg + 15(1) suga + 15(1) carb] + 45(3) carb] x2
+
+[color=#215263]██ DERMA | BURNS | 10u[/color]
+[[15(1) sili + 15(1) carb] + 30(2) oxyg + 30(2) phos] x2
+
+[color=#0041a8]██ DEX | AIRLOSS | 20u[/color]
+[CAT 1 plasma + 60 oxyg] x2
+
+[color=#731024]██ INAPROV | ASPHYXIATION | NA, only works when in critical condition[/color]
+[30 oxyg + 30 carb + 30 suga] x2
+
+[color=#00e5ff]██ TRICOR | BASIC DAMAGE | NA, Heals all basic damage when under 50[/color]
+[[30 carb + 30 oxyg + 30 suga] +
+[30 sili + 30 pota + 30 nitr]]
+
+[color=#bd5902]██ ARITH | RADIATION | NA, deals BRUTE damage[/color]
+[15(1) sili + 15(1) pota + 15(1) nitr + 45(3) radi] +
+90(6) hydr
+
+[color=#f4dab8]██ SIDERLAC | CAUSTIC | NA[/color]
+[50 aloe + 50 stellibinin] x2
+
+[color=#0064C8]██ SALINE | BLOODLOSS & THIRST | NA[/color]
+[10 chlo(1) + 10 sodi(1) + 80(8) water] x2
+▬ heat until fully mixed ▬
+
+[head=3]ADVANCED BRUTE MEDICATION[/head]  [color=#e5e5e5]██████████████[/color]
+
+[color=#ff3636]██ BRUIZ | BLUNT | 10u
+DON'T MIX WITH OTHER BRUTE CHEMS[/color]
+[27(5.4) lith + 35(7) suga + 20(4) carb + 5(1) oxyg] x3
+
+[color=#283332]██ LACER | SLASH | 12u
+DON'T MIX WITH OTHER BRUTE CHEMS[/color]
+[50(10) carb + 30(6) hydr + 5(1) suga + 5(1) oxyg] x3
+▬ heat until fully mixed ▬
+
+[color=#b9bf93]██ PUNCT | PIERCING | 11u
+DON'T MIX WITH OTHER BRUTE CHEMS[/color]
+[15(3) hydr + 20(4) oxyg + 20(4) carb + 5(1) suga] x3
+▬ heat until fully mixed ▬
+
+[head=3]ADVANCED BURN MEDICATION[/head]  [color=#e5e5e5]██████████████[/color]
+
+[color=#ff7db5]██ LEPO | COLD | NA[/color]
+[25(1) sili + 25(1) iron + 50(2) copp + 1 CAT plasma] x2
+▬ heat until fully mixed ▬
+
+[color=#aa4308]██ PYRA | HEAT | 15u[/color]
+Step 1. In beaker A put 1 plasma and preheat
+Setp 2. In beaker B, [35 carb + 10 phos] +
+             [10 oxyg + 5 sili]
+step 3. In Beaker C, [10 sili + 10 iron + 20 copp],
+             pour all into beaker on the stove
+step 4. Remove 10 lepo and 1 plasma from Beaker A using
+              the ChemMaster
+step 5. Mix beakers A and B and heat
+step 6. Repeat all steps
+ X proportions unavailable for this recipe X
+
+[color=#8147ff]██ INSUZINE | SHOCK | 12u[/color]
+[35(7) sili + 5(1) iron + 10(2) copp + 10(2) carb + 1 CAT plasma] x3
+▬ heat until fully mixed ▬
+
+[head=3]OTHER ADVANCED MEDICATION[/head]  [color=#e5e5e5]██████████████[/color]
+
+[color=#4da0bd]██ DEX+ | AIRLOSS | 25u[/color]
+[20(2) oxyg + 30(3) iron + 30(3) carb + 1 CAT plasma] x2
+
+[color=#c8ff75]██ PHALANX | GENETIC | NA, deals radiation damage[/color]
+[10(1) sili + 10(1) pota + 10(1) nitr + 60(6) etha] +
+[50(5) radi + 20(2) chlo + 20(2) phos]
+
+[color=#aa4308]██ SIGY | CAUSTIC | 15u[/color]
+(siderlac preferred)
+Step 1. [10 chlo + 10 sodi], heat. Add
+              [15 hydr + 5 nitr + 20 carb + 20 oxyg + 20 suga], store
+Step 2. [10 oxyg + 10 hydr + 20 sodi + 20 carb + 
+              20 sili + 20 suga], heat. store
+Step 3. To a beaker from storage:
+              20u of sodium carbonate, sodium hydroxide, sugar,
+              and kelotane. Add 20 water and heat until reacted.
+Step 4. Repeat step 3
+ X proportions unavailable for this recipe X
+
+[color=#404040]██ OCULINE | EYE DAMAGE | NA[/color]
+Step 1. Create hydroxide: [40(2) oxyg + 40(2) hydr], heat mix
+Step 2. Create table salt: [20(1) chlo + 20(1) sodi], heat mix
+Step 3. To a beaker [40(2) hydrox. + 20(1) t. salt + 20(1) blood]
+Step 4. Pour result to jug and repeat step 3.
+
+[color=#a2cfca]██ EPINEPHRINE | ALL BASIC WHILE CRITICAL | 20u[/color]
+[bold]Practical method:[/bold] Ask botany for Lingzhi, grind it.
+[bold]Illegal method:[/bold] Take all the epi from the nanomed, put it in a jug. Doctors rarely use the nanomed epi anyway.
+[bold]Massochism method:[/bold]
+Step 1. Phenol: [45 hydr + 30 carb + 15 oxyg], heat, store
+Step 2. Acetone: [40 welding fuel + 10 hydr + 10 carb] +
+             [30 oxyg], store
+Step 3. Hydroxide: [30 oxyg + 30 hydr], heat, store
+Step 4. Mix: [25 phenol + 25 acetone + 25 chlo + 25 hydrox.] x2
+Step 5. Celebrate that it's finally over.
+ X proportions unavalible for this recipe X
+
+[head=3]CRYOGENIC CHEMICALS[/head]  [color=#e5e5e5]█████████████████████[/color]
+
+[color=#0091ff]██ CRYOX | ALL BASIC | NA[/color]
+[20(2) oxyg + 1 CAT plasma] +
+[30(3) water + 30(3) oxyg]
+
+[color=#86a5bd]██ NECROSOL | HEALS CORPSES | NA[/color]
+[45(3) blood + 30(2) Cryox + 15(1) omnizine] x6
+▬ heat until fully mixed ▬
+
+[color=#89f77f]██ ALOXADONE | BURNT CORPSES | NA[/color]
+[40(2) aloe + 40(2) sigy + 20(1) cryox] x2
+
+[head=3]BOTANICAL CHEMICALS[/head]  [color=#e5e5e5]█████████████████████[/color]
+These recipes make a bucket (250u) rather than a jug.
+
+[color=#3e901c]██ ROBUST HARVEST[/color]
+Step 1. Sulfuric acid: [10(2) oxyg + 5(1) hydr + 5(1) sulf], store
+Step 2. Mix: [25 phos + 25 pota + 25 nitr + 1 CAT sulf. acid] x3
+
+[color=#00ff5f]██ UNSTABLE MUTAGEN[/color]
+[25 radi + 25 chlor + 25 phos] x3

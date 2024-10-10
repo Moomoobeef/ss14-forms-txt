@@ -1,0 +1,90 @@
+# Tom's Bonus Volume to Chem
+[color=#aaaaaa]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[head=1]Tom's Guide to Chemistry[/head]
+[head=2]Bonus Volume: Topicals & Defense Chemicals[/head]
+[color=#aaaaaa]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+Hello! This volume contains some information that wouldn't fit in the other three, but that I wanted to write down anyway because I think it's useful information. We'll cover how to make topicals (basic and advanced) and we'll cover some more chemicals that [italic]are not medicine[/italic].
+
+[head=3]BASIC TOPICALS[/head]  [color=#e5e5e5]████████████████████████████[/color]
+Topicals are not medicines that reference recent events. Topical medicines are medicines that are applied to the surface of a body, I.E. "on top". Bandages, ointment, sutures, and regenerative mesh are examples of topical treatments.
+
+Topicals are trivial to apply, as there is no way to fuck it up. They do not have interactions with other medicines, and they do not have overdoses.
+
+[color=#0088bb]██ BRUISE PACKS | BRUTE | MEDICAL TECHFAB[/color]
+0.25 plastic, 0.25 steel ea.
+2.5 plastic, 2.5 steel = stack of 10
+
+[color=#0088bb]██ OINTMENT | BURNS | MEDICAL TECHFAB[/color]
+0.25 plastic, 0.25 glass ea.
+2.5 plastic, 2.5 glass = stack of 10
+
+[color=#0088bb]██ GAUZE | SLASH/PIERCE/BLEEDING | MEDICAL TECHFAB[/color]
+2 cloth ea.
+20 cloth = stack of 10
+
+[color=#00bb88]██ ALOE CREAM | BURNS | MICROWAVE[/color]
+Microwave 1 aloe leaf for 10 seconds.
+Produces 10 aloe cream.
+
+[head=3]ADVANCED TOPICALS[/head]  [color=#e5e5e5]███████████████████████[/color]
+
+[color=#bb2222]██ MEDICATED SUTURES | BRUTE/BLEEDING | MICROWAVE[/color]
+- 1 Poppy
+- 1 Bruise Pack
+- 1 Cloth
+- [20 tranexamic acid + 20 cryptobiolin] (refer to guidebook)
+Microwave for 10 seconds.
+Produces 10 Medicated Sutures.
+
+[color=#bb2222]██ REGENERATIVE MESH | BURNS | MICROWAVE[/color]
+- 1 Aloe
+- 1 Ointment
+- 1 Cloth
+- [20 sigynate + 20 dermaline]
+Microwave for 10 seconds.
+Produces 10 Regenerative Mesh.
+
+[head=3]DEFENSE CHEMICALS[/head]  [color=#e5e5e5]███████████████████████[/color]
+Occasionally as a chemist you may be called upon to defend your station. As such, you are permitted to produce poisons, pyrotechnics, narcotics, etc. during these scenarios. [bold]This is a responsibility that you must take seriously. You will bring a great shame upon the name of The Chemist if you abuse your powers and your responsibility.[/bold]
+
+[bold]This section has different notation from other volumes[/bold]
+[color=#000000]██ POISON NAME | DAMAGE DEALT | AMOUNT/UNIT[/color]
+
+[color=#BF8C00]██ SULFURIC ACID | CAUSTIC | 1.666[/color]
+[50 oxyg + 25 hydr + 25 sulfur] x2
+
+[color=#9e6b38]██ FLUOROSURFACTANT | FOAM | NA[/color]
+When this chemical reacts with water it will create a foam that takes all chemicals in solution with it, allowing for things like airborne poisons.
+[40(2) carb + 40(2) fluo + 20(1) sulfuric acid] x2
+
+[color=#D6CE7B]██ AMATOXIN | POISON | 15[/color]
+Grind fly amanita for 25, 8 required for 200u
+
+[color=#b3cfcb]██ RAZORIUM | SLASH | 3[/color]
+Mix any 2 Bic-based Brute meds
+
+[color=#5C6274]██ LEAD | POISON | 20[/color]
+Incredibly slow, but VERY deadly. 10u is enough to kill someone, but it will take awhile.
+
+[color=#EFB8B8]██ CHLORINE TRIFLUORIDE | EXPLOSIVE | NA[/color]
+[75(3) fluo + 25(1) chlo] x2
+explodes when heated above 370k
+
+[color=#a1000b]██ BLEACH | POISON & CAUSTIC | 4P 4C[/color]
+[40(2) table salt + 40(2) space cleaner + 20(1) sodi. hydrox.] x2
+
+[color=#77b58e]██ SPACE LUBE | SLIPS, ALWAYS | NA[/color]
+[20(2) water + 20(2) oxyg + 10(1) iron + 10(1) silicon], heat
+
+[color=#00ff5f]██ UNSTABLE MUTAGEN | RADIATION | 6[/color]
+[30 radi + 30 phos + 30 chlo] x2
+
+[color=#5050ff]██ FLUOROSULFURIC ACID | CAUSTIC | 2.666[/color]
+[25 fluo + 25 hydr + 25 pota + 25 sulfuric acid] x2
+
+[color=#215263]██ FOAMING AGENT | CREATES HARD FOAM | NA[/color]
+Not to be confused with flurorosurfactant, foaming agent creates rough walls made out of metal when reacted with iron or aluminum and fluorosulfuric acid in a ratio of 1 F. Agent, 1 Acid, 3 Metal.
+[50 lithium + 50 hydrogen] x2
+
+[head=3]THE END[/head]  [color=#e5e5e5]██████████████████████████████████[/color]
+Thanks for reading [italic]Tom's Guide to Chemistry[/italic]! Look out for other Tom's Guides such as [italic]Tom's Guide to Frezon[/italic], and [italic]Tom's Guide to Bureaucracy[/italic] coming to a station library near you soon!
