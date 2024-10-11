@@ -3,7 +3,7 @@
                                                    ░█░░█░ 
                                                    ░▄▀▀▄░
                                 ╔══════════════════╗[/color]
-                   [head=1][bold]Exosuit Authorization[/bold][/head]
+                             [head=2][bold]Exosuit Authorization[/bold][/head]
 
 I, [color=#1b67a5] Sample[/color], hereby request permission to acquire, pilot, or otherwise possess a Powered Exoskeletal System.
 
@@ -30,3 +30,8 @@ The invalidity or unenforceability of any provision of this Agreement, whether s
 
 [bold] Authorizing Authority: [color=#1b67a5] Sample[/color][/bold]  
 [italic][color=#aaaaaa]Not valid unless stamped.[/italic][/color]
+
+
+
+
+
