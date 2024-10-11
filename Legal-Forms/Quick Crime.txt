@@ -7,16 +7,16 @@
 [head=2][color=#4D2E2E][bold]Violent Crime[/color][/bold][/head]
 [bullet]1-00 \[  ] Animal Cruelty (<5 mins)
 [bullet]3-05 \[  ] Assault (10 mins)
-  [bullet]3-06 \[  ] Manslaughter (10 mins)
+   └ 3-06 \[  ] Manslaughter (10 mins)
 [bullet]4-05 \[  ] Attempted Murder (10 mins)
-  [bullet]4-06 \[  ] Murder (15 mins)
+   └ 4-06 \[  ] Murder (15 mins)
 [bullet]5-05 \[  ] Prevention of Revival (Capital)
-  [bullet]5-06 \[  ] Mass Murder (Capital)
+   └ 5-06 \[  ] Mass Murder (Capital)
 ……………………………………………………………………………………………
 [head=2][color=#2E422E][bold]Property Crime[/color][/bold][/head]
 [bullet]1-01 \[  ] Possession: Minor (<5 mins)
-  [bullet]2-01 \[  ] Possession: Major (5 mins)
-    [bullet]3-01 \[  ] Possession: Syndicate (10 mins)
+   └ 2-01 \[  ] Possession: Major (5 mins)
+       └ 3-01 \[  ] Possession: Syndicate (10 mins)
 [bullet]1-02 \[  ] Theft (<5 mins)
 [bullet]3-02 \[  ] Grand Theft (10 mins)
 ……………………………………………………………………………………………
@@ -51,3 +51,5 @@
 [italic][color=#aaaaaa]All times are maximum but not recommended sentences.
 Nested crimes do not stack, only use most sever offence.
 Give more leniency for first time offences and compliance. [/color][/italic]
+
+
