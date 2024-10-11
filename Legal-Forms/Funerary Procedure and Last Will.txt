@@ -7,9 +7,9 @@
                                 ╚══════════════════╝[/color]
                                             [head=3]NanoTrasen[/ head]
                                      [head=3][color=#9fed58]Funeral Intructions[/color][/head]
-[bold]─────────────────────────────────────────[/bold]
+[bold]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/bold]
 
-[head=2][italic]Upon untimely demise, ___[color=#5b97bc]NAME HERE[/color]___ requests the following:[/italic][/head] 
+[head=2][italic]Upon untimely demise, ‾‾[color=#5b97bc]NAME HERE[/color]‾‾ requests the following:[/italic][/head] 
 
 [color=#aaaaaa][italic]choose one, items marked with * may not be availible in all stations and will be carried out by Central Command[/color][/italic]
     (  ) Morgue
