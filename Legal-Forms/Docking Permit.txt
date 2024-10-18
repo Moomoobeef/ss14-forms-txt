@@ -1,0 +1,50 @@
+# Docking Permit
+                            [color=#1b487e]╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝[/color]
+                                        [head=3]NanoTrasen[/ head]
+
+[head=2]Frontier Station Docking permit[/head]
+═════════════════════════════════════════
+              [bold]Ship:[/bold] SHIP NAME
+      [bold]Duration:[/bold] 00:30
+[bold]Issued Time:[/bold] ISSUED TIME
+Signed: [color=lightblue]STC NAME[/color]
+═════════════════════════════════════════
+[italic]After the duration of this permit expires you may be asked to move if we are experiencing heavy traffic. If you are unavailable and your ship is forcibly moved it will be within 200m of Frontier station.[/italic]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

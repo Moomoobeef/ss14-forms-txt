@@ -1,0 +1,19 @@
+# Salvage Declaration
+                            [color=#1b487e]╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝[/color]
+                                        [head=3]NanoTrasen[/ head]
+
+[head=2]Salvage Declaration Form[/head]
+[bold]Ship:[/bold] SHIP NAME
+[bold]Time:[/bold] TIME OF SALVAGE
+[bold]Reason for salvage:[/bold]
+═════════════════════════════════════════
+SALVAGE REASON
+═════════════════════════════════════════
+Signed: [color=lightblue]STC NAME[/color].
+
