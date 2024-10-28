@@ -7,11 +7,11 @@
 [bullet/]Skillful document/form prep.
 [bullet/]Passionate about bureaucracy.
 
-I have seen station operation from many angles, and I am trained in many disciplines. But I am passionate about bureacracy and saving lives.
+I have seen station operation from many angles, and I am trained in many disciplines. But I am passionate about bureaucracy and saving lives.
 
 [head=3]EDUCATION[/head]  [color=#e5e5e5]███████████████████████████████[/color]
 [bold]NT Medical College[/bold]
-[bullet/]PHD Chemical Science
+[bullet/]PhD Chemical Science
 [bullet/]Masters in Medical Practice
 [bold]NT Training Certificates[/bold]
 [bullet/]Chemical Prep
@@ -30,7 +30,7 @@ I have seen station operation from many angles, and I am trained in many discipl
 [bold]Chemist[/bold] - 30 years experience
 [bullet/]Mastery of chems important to immediate care.
 [bullet/]Can prepare any needed chems at a sufficient rate.
-[bullet/]Knowledgable about medicine and it's application.
+[bullet/]Knowledgeable about medicine and it's application.
 [bold]Bartender[/bold] - 5 years experience
 [bullet/]Mastery of alcohol.
 [bullet/]Excellent root-beer floats.
@@ -39,7 +39,7 @@ I have seen station operation from many angles, and I am trained in many discipl
 [head=3]SKILLS[/head]  [color=#e5e5e5]███████████████████████████████████[/color]
 [bullet/]Formal document prep.
 [bullet/]General bureaucratic conventions.
-[bullet/]Dealing with crewmembers in a polite fashion.
+[bullet/]Dealing with crew members in a polite fashion.
 [bullet/]Running a chem lab.
 [bullet/]Diagnosing & treating patients.
 [bullet/]Liquor.

@@ -10,14 +10,14 @@ The Ripley APLU is a Construction Mech developed by your Science department for 
 ║ [head=2]Construction[/head]
 First, make sure the Ripley APLU is researched. It is a tier 1 industrial unlock, as well as making sure you have all the parts ready. You can create all five parts of the Ripley at the Exosuit fabricator, and the circuits needed are in the circuit imprinter. Remember to grab LV cables, a power cell, and about ten extra steel sheets.
 
-Now to construct the Ripley, assemble all four limbs on top of the harness. Then wrench and screw all the parts on tight. Add the LV cables, and use a wirecutter to snip them into shape. Add the circuits and screw them in, as well as the power cell. Find a welding mask, and add five sheets of steel to the Ripley in order to seal all the internal components. Wrench the externals on and weld them to stability. Finally, add ten rods for protection and weld them around the cockpit. 
+Now to construct the Ripley, assemble all four limbs on top of the harness. Then wrench and screw all the parts on tight. Add the LV cables, and use a wire cutter to snip them into shape. Add the circuits and screw them in, as well as the power cell. Find a welding mask, and add five sheets of steel to the Ripley in order to seal all the internal components. Wrench the externals on and weld them to stability. Finally, add ten rods for protection and weld them around the cockpit.
 
 ╔═══════════════
 ║ [head=2]Controls[/head]
 The Ripley only has three buttons to worry about. Swap Equipment, View Stats, and Eject Pilot.
 The [bold]Swap Equipment[/bold] button allows you to swap between available equipment. By default, nothing is selected.
 The [bold]View Stats[/bold] button allows you to see the Integrity of the Ripley as well as the Energy of the power cell inside. It also allows you to see and eject equipped modules, as well as preforming certain actions with the modules.
-The [bold]Eject[/bold] button is self explanatory. It removes the pilot from the Ripley.
+The [bold]Eject[/bold] button is self-explanatory. It removes the pilot from the Ripley.
 
 ╔═══════════════
 ║ [head=2]Modules[/head]

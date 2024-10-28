@@ -22,11 +22,11 @@ Race & Age:    [color=#002AAF]Sample Answers[/color]
                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 Hair/Eye Color:    [color=#002AAF]Sample Answers[/color]
                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-Relationsip to (1):    [color=#002AAF]Sample Answer[/color]
+Relationship to (1):    [color=#002AAF]Sample Answer[/color]
                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
 [head=3](3) \[  ] Additional Protected Persons[/head]
-In addition to the person named in (1), the folowing persons are protected my temporary orders as indicated below.
+In addition to the person named in (1), the following persons are protected my temporary orders as indicated below.
 [bold]Full Name/Relationship/Sex/Age[/bold]
 [color=#002AAF][bullet/]Sample Sampleton/Son/Male/42    [/color]
 [color=#002AAF][bullet/][/color]

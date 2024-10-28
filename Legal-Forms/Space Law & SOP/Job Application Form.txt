@@ -1,6 +1,6 @@
 # Job Application Form
 [color=#1b67a5]█▄ █ ▀█▀    [head=3]Job Application Form[/head]
-█ ▀█     █        Please fill out the feilds below to apply[/color]
+█ ▀█     █        Please fill out the fields below to apply[/color]
 ──────────────────────────────────────────
 In order to receive a job you must fill out the following form, making sure to answer all questions accurately. Once finished please hand it into the Head of Personnel for review.
 
@@ -8,8 +8,8 @@ Name:    [color=#002AAF]Sample Name[/color]
                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 Current Job (if any):    [color=#002AAF]Sample Job[/color]
                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-Please mark below the jobs you would like to apply for. You may mark the boxes with numbers to indicate preference (1 for first preference, 2 for first back-up, etc) or you may mark the boxes with X if you do not care which)
-[bold]Please choose at least 3 jobs, as not all are guranteed to be avaliable.[/bold] [color=red]Jobs with an asterisk may not be avaliable to apply for, but are listed for posterity. Check with your Head of Personnel.[/color]
+Please mark below the jobs you would like to apply for. You may mark the boxes with numbers to indicate preference (1 for first preference, 2 for first back-up, etc.) or you may mark the boxes with X if you do not care which)
+[bold]Please choose at least 3 jobs, as not all are guaranteed to be available.[/bold] [color=red]Jobs with an asterisk may not be available to apply for, but are listed for posterity. Check with your Head of Personnel.[/color]
 
 Service:
 \[  ] Bartender

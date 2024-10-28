@@ -68,7 +68,7 @@ Please thoroughly describe the incident. If you are aware of any command staff i
 
 ════════════
 [head=3][head=2]4. [/head]Station Status[/head]
-Are any of the following true?
+Are any of the following truth?
 \[  ] Power very low or out completely
 \[  ] Gravity is non-functional
 \[  ] Large areas of the station are out of breathable air

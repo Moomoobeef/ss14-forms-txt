@@ -72,7 +72,7 @@ What is your favorite corporation?
 \[ ] Donk Co.
 \[ ] Other
 
-Would you be willing to donate your first born son or daughter to NanoTrasen scientists?
+Would you be willing to donate your firstborn son or daughter to NanoTrasen scientists?
 \[ ] Yes       \[ ] No
 
 First Born's Name:

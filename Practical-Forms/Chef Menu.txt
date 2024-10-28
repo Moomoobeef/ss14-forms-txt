@@ -13,7 +13,7 @@
                                               |   Mcguffin
  [head=3]Meat:[/head]
 [color=green][bold](0)[/bold][/color] Enchiladas                   [color=blue][bold](1)[/bold][/color] Fiesta kebab
-  |  BBQ ribs                        |   Rat kaebab
+  |  BBQ ribs                        |   Rat kebab
   |  Meat kebab                  |   BBQ rib sandwich [color=purple](★)[/color]
   |  Steak                              |   Soft taco
 
