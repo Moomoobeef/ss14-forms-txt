@@ -1,0 +1,48 @@
+# Department Health & Saftey Inspection Checklist
+══════════════════════════════════════════
+[head=2]HEALTH & SAFTEY INSPECTION CHECKLIST[/head]
+[head=3]SAMPLE DEPARTMENT[/head]
+══════════════════════════════════════════
+Inspector Name:    [color=#002AAF]Sample Name[/color]
+                    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Major Violations:[/bold]
+\[  ] Hazardous substances improperly stored
+\[  ] Critical systems malfunctioning
+\[  ] Excessive blood on the floor
+\[  ] Radioactive materials present
+\[  ] Unauthorized materials or equipment present
+\[  ] Structural damage (e.g., walls, floors, ceilings)
+\[  ] Lack of emergency medical supplies
+\[  ] Exits blocked or inaccessible
+\[  ] Insufficient fire safety measures (e.g., extinguishers, alarms)
+\[  ] Safety protocols not followed
+
+All major violations must be rectified as soon as possible.
+If more than one major violation is present, the offensive areas must be cordoned off until violations are rectified.
+Any major violations warrants an automatic F score.
+
+[bold]Minor Violations:[/bold]
+1 \[  ] Insufficient or unstocked supplies (e.g., empty vendors)
+1 \[  ] Cleanliness issues (trash, spills, etc.)
+1 \[  ] Personal belongings cluttering workspaces or common areas
+1 \[  ] Inadequate seating or rest areas for staff 
+2 \[  ] Poor lighting in work areas
+2 \[  ] Minor electrical issues (e.g., loose wires)
+2 \[  ] Poor organization of tools or supplies (e.g., items misplaced or scattered)
+3 \[  ] Poor air quality or ventilation issues
+3 \[  ] Inconsistent temperature control in work areas (too hot or too cold)
+3 \[  ] Incorrect labeling of supplies or equipment (e.g., mislabled or unlabled chems)
+
+[bold]Additional observations & deductions: [/bold]
+[color=#002AAF]Additional problems noted by the inspector.[/color]
+
+
+[bold]Tally points from all violations: [/bold]
+0-1: A
+2-4: B
+5-7: C
+8-9: D
+10+: F
+
+The common areas scored a [color=#002AAF]GRADE[/color]. The service staff are advised to work on the following improvements:
+[color=#002AAF]Notes from inspector.[/color]

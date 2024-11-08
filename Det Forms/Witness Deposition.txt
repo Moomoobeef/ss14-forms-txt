@@ -1,0 +1,23 @@
+# witness Deposition
+                                [color=#1b487e]╔══════════════════╗[/color]
+
+                   [head=1][bold]Official Testimonial 
+                   Deposition[/bold][/head]
+
+─────────────────────────────────────────
+
+Witness: [color=#1b67a5] Sample[/color] 
+
+Officer receiving deposition: [color=#1b67a5] Sample[/color]
+
+─────────────────────────────────────────
+
+Testimony:  [color=#1b67a5] Sample[/color] 
+
+─────────────────────────────────────────
+
+[italic][color=#aaaaaa]I, [color=#1b67a5] Sample[/color], do affirm that the information above is true and correct to the best of my knowledge and relayed to the best of my ability. By signing below, I hereby acknowledge that I may be held in Contempt by the High Court or guilty of Perjury under Nanotrasen Regulation 7716(c).
+
+
+
+
