@@ -17,7 +17,6 @@ Service:
 \[  ] Chaplain
 \[  ] Chef
 \[  ] Clown
-\[  ] Detective
 \[  ] Janitor
 \[  ] Lawyer
 \[  ] Librarian
@@ -35,6 +34,7 @@ Engineering:
 \[  ] Technical Assistant
 
 Security
+\[  ] Detective
 \[  ] Security Cadet
 \[  ] Security Officer*
 \[  ] Warden*
