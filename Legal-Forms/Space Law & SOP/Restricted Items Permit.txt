@@ -34,9 +34,9 @@ The Item(s) permitted are the following levels of Contraband:
 ├─────────────┼───────────────┤
  │Central Command  │Central Command        │
 └─────────────┴───────────────┘
-[italic]Please refer to the figure above and ensure that this document is stamped appropriately in order to be valid. Multiple contraband types can be approved so long as atleast one of the granters for each type on the document has stamped.[/italic]
+[italic]Please refer to the figure above and ensure that this document is stamped appropriately in order to be valid. Multiple contraband types can be approved so long as least one of the granters for each type on the document has stamped.[/italic]
 
 
-[color=#BBBBBB]This permission can be revoked at any time by the individual who granted it or the next in succesion.
+[color=#BBBBBB]This permission can be revoked at any time by the individual who granted it or the next in succession.
 Abusing permissions granted to you by command officers is not recommended.
 Those who abuse granted permission can be fined up to 5000 spesos pursuant NT Handbook §16-8.7c[/color]

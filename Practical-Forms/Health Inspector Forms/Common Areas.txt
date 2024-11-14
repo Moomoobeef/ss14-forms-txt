@@ -22,7 +22,7 @@ Any major violations warrants an automatic F score.
 2 \[  ] Mice present
 2 \[  ] Excessive spilt liquids
 3 \[  ] Cockroaches/mothroaches present
-3 \[  ] Unoptimal air mixture/pressure
+3 \[  ] Pessimal air mixture/pressure
 
 [bold]Additional observations & deductions: [/bold]
 [color=#002AAF]Additional problems noted by the inspector.[/color]
