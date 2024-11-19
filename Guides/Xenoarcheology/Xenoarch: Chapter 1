@@ -3,7 +3,7 @@
 [color=#c96dbf]
 ░▀▄▄▀░ [head=2]Science Guide[/head] 
 ░█░░█░ [head=3]Xenoarcheology - Chapter 1: Abstraction[/head] 
-░▄▀▀▄░ [head=3]Written by Researchers Pebbles Rainbringer, Nyxilath Steele, Callng Calipso, Pip Soak, and Kaiser Eclipsewing[/head] 
+░▄▀▀▄░ [head=3]Written by Researchers Pebbles Rainbringer, Nyxilath Steele, Callnig Calipso, Pip Soak, Koho Moeller and Kaiser Eclipsewing[/head] 
 [/color] 
 ────────────────────────────────────────── 
 Within the space of Research and Development, Xenoarcheology is a rich and complex field full of mysteries to be discovered - so it's good to know what all can happen. 
@@ -25,5 +25,3 @@ To better understand artifact tree navigation, it is important to understand two
 Putting this example to use in our tree above, descending from node 1 will choose one of its four edges: node 2, node 3, node 4, or node 7. If we end up on nodes 2, 3, or 7 - we will have an edge value of 1, showing there are no further nodes to explore down this path. We can then go back up to node 1 to descend down again, until we have fully mapped out and explored our artifact tree.
 
 With each unique node that we activate for the first time, we then can extract research from the artifact, which then will be stored within our R&D server. These points fuel our ability to develop new machines, tools, and services for our station, and improves the financial stock value of Nanotrasen for its shareholders.
-
-- Professor Pebbles Rainbringer, Researcher Nyxilath Steele, Callng Calipso, Pip Soak, Koho Daedelus, and Kaiser Eclipsewing
