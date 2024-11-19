@@ -1,0 +1,93 @@
+~ANOMALIES~
+
+Shift Start Recommendations
+
+CORDS ON - Remember, we’re not Service Crew, we're important.
+
+Essential Materials:
+Gather rods (made from steel) and glass to create at least 4 reinforced glass panels for anomaly containment.
+
+Split the 30 plasma in the Anomalies room, using 15 plasma to create 4 Reinforced Plasma Glass panels. These are more durable and useful for containing radiation.
+
+Radiation Suit:
+Wear your NanoTrasen Radiation Suit for protection against high levels of radiation during prolonged exposure.
+
+Tool Kit:
+Bring a full toolbelt and don’t forget a welding mask. When out on the "field" you will have to be self sufficient. 
+
+Anomaly Scanner:
+If short-staffed, wait until the Anomaly scanner is unlocked. Ideally, always carry an anomaly scanner.
+
+=================================
+Anomaly Scanning
+
+Once an anomaly is scanned, the scanner UI shows four particle types with their effects:
+
+Danger Particles: Increase the anomaly’s severity; use carefully to raise point output, but beware of safety risks.
+Unstable Particles: Lower the anomaly's stability; generally avoided by conscientious scientists.
+Containment Particles: Raise anomaly stability at the cost of its health, ideal for elimination.
+Transform Particles: Alters anomaly modifications, impacting point multipliers between -50% to 190%. Avoid gambling on transformations as risks are high.
+
+After Scanning:
+
+Return the scanner to Science and connect it to an Anomaly Vessel.
+Label and organize your equipment by type and location, e.g., “FIRE ANOM - (LOCATION).” Communicate findings with the RD or Science team.
+
+=================================
+
+Pyroclastic Anomalies	
+Properties: Emit intense heat and flame, which can ignite objects and people nearby. Pyroclastic anomalies can quickly cause uncontrolled fires, making containment critical.
+Containment Tip: Use fire-resistant equipment and try to isolate these anomalies away from flammable materials. Once scanned, try to contain with Reinforced Plasma Glass Windows whilst also contacting an Atmos Tech to space the floor below the Anom', as the temprature created within the containment will be high enough to kill, once it is broken.
+
+Ice Anomalies
+Properties: Emit intense cold, capable of harming nearby personnel. The also shoot out ice shards which will often break containment rapidly once over 60% Severity. They can spread ice on floors, creating slip hazards.
+Containment Tip: Treat them a lot like the Pyroclastic Anom', though spacing the tile undearneath is optional but recommended, these can be contained with reinforced glass but once over 50-60% severity, use Reinforced Plasma Glass Windows and check on the windows damage regularly.  Wear thermal protection when interacting with ice anomalies, AND BRING A WELDING TORCH. 
+
+Electric Anomalies
+Properties: Generate high-voltage discharges, creating electrical surges that can damage electronics and injure personnel. They can short out power grids in their vicinity.
+Containment Tip: Ground the containment area using a grounding rod. These anomalies are best contained in shielded areas away from critical electronics. Relocating the Anom with a Gauntlet is an option as well.
+
+Gravitational Anomalies
+Properties: Warp gravitational fields, causing objects and people to be pulled toward or pushed away from them. They can make moving around difficult and sometimes create dangerous high-gravity zones. Be warned, radiation is also emitted from these anom's.
+Containment Tip: Wear a radiation suit, use lockers or other dragable objects (APE) to nudge the Anom into a good position, I would suggest using a Plasma Windows (small/thin) to contain the anom and stop the radiation from causing harm. 
+
+Flesh Anomalies
+Properties: Composed of living, organic material, flesh anomalies may spawn hostile creatures if left unchecked. They also emit a foul odor and can spread, affecting their surroundings.
+Containment Tip: Quarantine flesh anomalies and have weapons ready in case of hostile entity emergence. Consider immediate disposal if containment is compromised. 
+
+Bluespace Anomalies
+Properties: Bluespace anomalies can warp space, leading to localized teleportation effects. They may cause items or personnel to randomly teleport or phase in and out of the area.
+Containment Tip: Avoid placing unanchored valuable or sensitive equipment nearby, as it may be affected by teleportation. Try to Avoid keeping this anom near the edges of the station and/or public hall ways. Use the APE to stabilize or neutralize quickly.
+
+Tech Anomalies
+Properties: Interact with and sometimes enhance electronic devices in unpredictable ways, potentially overloading nearby machinery or toggling it's functions.
+Containment Tip: Keep an eye on your APE, as this Anom can and will turn it off or change the particle type it will shoot. Only keep non-essential equipment near Tech anomalies, as they may short-circuit or alter devices function, such as bolting/opening/toggling power.
+
+Floral Anomalies
+Properties: Create Kudzu weeds, vegetables and sometimes spawn aggressive plant life.
+Containment Tip: Bring a Saw from the robotics vending machine or a welding torch for the Kudzu weeds. Once stable and connected, i would suggest grabbing a Medibot and anchoring it near the Anom, as once above 60% severity, you will be required to stay near the Anom and remove the weeds, you will encounter spawns such as tree's and Ethereal enemies that spawn from the plant growths, you can only take on one at a time so I suggest using the Saw and staying near the medibot.
+
+Shadow Anomalies
+Properties: Create a fog of shadow that has the voices of the void. Once dense enough shadow has been created, there will be portals inside that will transport anyone who steps into it into another area or into space.
+Containment Tip: Contact Security or Robotics and obtain a steady flow of Flashes to use to keep ontop of the shadow fog. 
+
+Rock Anomalies
+Properties: Rock anomalies create numerous area's of rock or ore filled rock that can obstruct operations. The Rocks with Ore inside, once broken, will often spawn an Ore entity that will attack.
+Containment Tip: Once located, obtain a salvager drill and prefably a Medibot to keep yourself healed whilst keeping ontop of the Entities that you will have to fend off. Be careful with having your APE blocked off and keep the Severity below 75%.
+
+Liquid Anomalies
+Properties: Release strange liquids onto the floor OR inside any crew that are near by, sometimes with acidic or toxic properties.
+Containment Tip: Use chemical-resistant gear and place containment barriers to stop the spread of liquid, basic glass windows can be used. If you want Chem to love you, do not contain with glass and bring buckets (2) and a syringe to draw from the anom or floor and obtain either some deadly or highly benfitial chemicals to be later used by Chem.
+
+=================================
+
+Points and Severity Tips
+
+This is all subjective to individual experience levels and crew expectations.
+
+My personal suggestion is to not go over 75% severity, as if you fall unconcious and have no labled the contained Anom's scanner, other staff may not know where/what to do for the location and particle type to contain. Having 25% wiggle room allows for mistakes.
+
+For high output of points, i would suggest aiming for a transformation modification that is low risk, such as visible spectrum (invisibility) that will increase the point output above 150%.
+
+Whilst i do not reccomend this, upon first creation and low severity of the anom, if you are experienced and have a timer of 3+ mins for the next pulse, you can push the severity to 60%+ and then use "Unstable Particles" to create a danger level, this can give you a huge boost (150+) points for a short duration, then once you are close to 30 seconds left until next pulse, return it to stable. DO NOT REPEAT THIS STEP, as higher severity with have shorter times between pulses. 
+
