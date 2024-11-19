@@ -58,8 +58,12 @@ Therapeutic chemicals
 [color=#aaaaaa]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 
 [color=#c96dbf][head=2]Reaction List[/head][/color] 
+
+Biochemical disruption
+   A cloud of a random chemical will appear, often leaving a mess on the floor. Don't breathe too deep!
+
 Cerebral influence
-    A small message will appear, either warning or reassuring you.
+    You'll feel better or worse, but it's just a thought.
 
 Environmental disruption
    Might mend a few of your wounds - in reality it's probably going to blow up.
@@ -67,29 +71,11 @@ Environmental disruption
 Electrical interference
    The power's gonna flicker a bit, and maybe a shutter will open.
 
-Metaphysical displacement
-   Get ready to play hide'n'seek with the artifact after it teleports.
-
-Matter creation
-   The artifact manifests a creature, object, or even an anomaly!
-
 Energy consumption
    The room will get colder. Not very lizard friendly.
 
 Energy release
    The room will get hotter, or the Artifact may become radioactive. Not very Moff friendly.
-
-Biochemical disruption
-   A cloud of a random chemical will appear, often leaving a mess on the floor. Don't breathe too deep!
-
-Station-wide destruction
-   The artifact will spawn a volatile power orb, such as the Singularity or Tesla. Do not under any circumstances activate a node with this reaction.
-
-Small entity accelerator*
-    The artifact now permanently acts like a firearm.
-
-Utility conglomerate*
-    The artifact now permanently acts like an omnitool.
 
 Internal chamber*
     The artifact now permanently acts like a beaker or cup.
@@ -97,26 +83,41 @@ Internal chamber*
 Internal storage*
     The artifact now permanently acts like a bag.
 
-Serrated rotator*
-    The artifact now permanently acts like a drill. (Wrench + Screwdriver)
-
 Lubricated surface*
     The artifact now permanently acts like a bar of soap.
 
 Long-distance communication
     The artifact now permanently acts like an intercom.
 
-Structural phasing
-    The artifact now permanently will move through solid structures, and can no-longer be sold.
+Matter creation
+   The artifact manifests a creature, object, or even an anomaly!
+
+Magnetic waves
+    Objects will now slowly orbit around the artifact. It can spin either direction.
+
+Metaphysical displacement
+   Get ready to play hide'n'seek with the artifact after it teleports.
 
 Neurological activity
-    The artifact is now alive, and will talk and move around. (This is a ghost role.)
+    The artifact is now alive, and will talk and move around.
+
+Station-wide destruction
+   [bold]{NO DATA FOUND}[/bold]
+
+Small entity accelerator*
+    The artifact now permanently acts like a firearm.
+
+Serrated rotator*
+    The artifact now permanently acts like a drill. (Wrench + Screwdriver)
+
+Structural phasing
+    The artifact now permanently will move through solid structures, and can no-longer be sold.
 
 Transmogrificational activity
     Any nearby creatures will be turned into a random mob.
 
-Magnetic waves
-    Objects will now slowly orbit around the artifact. It can spin either direction.
+Utility conglomerate*
+    The artifact now permanently acts like an omnitool.
 
 Visual distortions
    The artifact will become invisible, only faintly still there.
