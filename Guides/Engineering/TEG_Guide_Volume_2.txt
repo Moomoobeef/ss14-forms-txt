@@ -1,0 +1,77 @@
+                                [color=#f39f27]╔══════════════════╗
+                                ║███░███░░░░██░░░░░║
+                                ║░██░████░░░██░░░░░║
+                                ║░░█░██░██░░██░█░░░║
+                                ║░░░░██░░██░██░██░░║
+                                ║░░░░██░░░████░███░║
+                                ╚══════════════════╝[/color]
+                       [head=3]NanoTrasen Engineering Corps[/ head]
+                                    [head=3][color=#1b487e]TEG Manual part 2[/color][/head]
+─────────────────────────────────────────
+[head=3][color=#5b97bc]The COLD loop[/color][/head]
+                                        
+       ┌────┬────┬────┬────┬──────◄───  
+        │V        │V         │V         │V         │V               200L/s 
+       ▼          ▼         ▼          ▼          ▼            
+      ┌─┐     ┌─┐    ┌─┐      ┌─┐      ┌─┐           
+      │    │     │   │    │   │      │   │      │   │           
+      │    │     │   │    │   │      │   │      │   │           
+      │    │     │   │    │   │      │   │      │   │           
+      │    │     │   │    │   │      │   │      │   │           
+      └─┘     └─┘    └─┘      └─┘      └─┘           
+        │G         │G       │ G       │G         │G            
+       ▼           ▼        ▼          ▼           ▼            
+       ──────────────────────────────►  
+                                                                                     200L/s 
+G (Gas pump) = Always on 4500 kPa
+V (Volumetric pump) = 200/number of V (so 40L/s here)
+
+The more radiators you add the colder the gas will end up at the end of the loop but remember to adjust the volumetric pumps in order for the gas to spread equally between the radiators.
+─────────────────────────────────────────
+[head=3][color=#cb0000]The HOT loop[/color][/head]
+
+There are multitude of ways to make a hot loop for the TEG. This manual focuses on the NanoTrasen approved method, the burn chamber. There should be one near every TEG and it is easy to find. Refer to the diagram:
+
+  ┌──────────-────┐                 
+  │      ┌──┐     ┌───┐     │                 
+  │   ┌┼┐┌┼┐ ┌┼┐ ┌┼┐   │                 
+  │   │   ││   │ │    │ │   │  │     ┌───┐          
+  │   │   ││   │ │    │ │   │  │     │PLA  │3%        
+  │   │   ││   │ │    │ │   │  │     └───┘          
+  │   └┬┘└┬┘ └┬┘ └┬┘  │     ┌─▼─┐   ┌───┐    
+  │      │     └───┘      │  I◄──│ +     │◄│OXY │    
+  └──┼─────────▲─┘     └───┘    └───┘    
+           │                         │                                  97%    
+          ▼ T~5L/s           │                     
+
+Technically the most efficient way for heat exchange would be the same radiator setup as with the cold loop but the one provided on most stations is plenty to transfer the insane temperatures of the heat chamber. The "I" in the diagram stands for atmospheric Injector which should also be standard on most stations.
+
+As for the fuel it is best to use 97% Oxygen + 3% Plasma mix which will start a Tritium fire in the chamber. Temperatures of such burn will go up to tens sometimes hundreds of degrees. Think of this heat as stored energy. The more you have the longer the TEG will be running. Do not be affraid when the burn stops. As the pressure in the chamber fills up there won't be enough space for more gas to fill and it will snuff out the burn. But as long as you have enough heat stored it will work for the TEG. Should you ever need to reheat the chamber simply vent it to space, refil with fuel and ignite again. 
+
+Burn chamber procedure:
+
+1. Check the chamber, make sure radiators are set up correctly
+2. Get an igniter and link it to a signaller or a signal button on the wall
+3. Place the igniter somewhere inside the chamber
+4. Vent the chamber to space so there is 0kPa of pressure and no gases present.
+5. Fill the chamber with 97% Oxygen + 3% Plasma fuel mix
+6. Ignite the chamber with the igniter and watch the temperature rise
+7. Turn on the TEG throttle. Start at 4L/s increase if needed.
+8. Ideally you should have around 30 000 degrees Celsius inside the chamber. If the temperature falls bellow 10 000 refuel and reignite the chamber.
+─────────────────────────────────────────
+[head=3][color=#f39f27]Troubleshooting[/color][/head]
+
+Congratulations! If you've followed the manual and got this far you should now have a fully functioning TEG. In case something is still not working follow the checklist:
+
+[bold]1. Is the gas flowing through the loops?[/bold]
+The TEG needs free flow of gas. If there is not enough or too much pressure in the pipes the flow will stop and you have to fix that. Underpressure occurs usually in the cold loop, simply add more plasma to fix it. Overpressure tends to happen if too much plasma was introduced to the hot loop as the pressure increases by the heat. To fix it vent some of the hot loop plasma into space.
+
+[bold]2. Is the gas hot/cold enough?[/bold]
+For proper power generation the difference between temperatures should be greater than 1500 degrees Celsius. However the TEG keeps equalising the temperature between the two and thus you have to fight it. If the cold loop gets too hot, expand the radiator array (or add a freezer but that takes power). If the hot loop gets too cold reheat the burn chamber.
+
+[bold]3. Does the TEG have power[/bold]
+Despite being a generator the TEG needs a small ammount of LV power to start. Similarly the pumps need power to move the gas. Make sure the cables are in order and the APC in the TEG room is powered. Start the AME for a while to recharge it or use one of the portable PACMAN generators.
+
+
+
+If all else fails, consult your Chief Engineer or colleagues.
