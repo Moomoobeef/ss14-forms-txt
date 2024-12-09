@@ -1,0 +1,26 @@
+# Document Label PSA
+█▀                           ▀█
+▌     [head=1]Document Label PSA[/head]         ▐
+█▄                           ▄█
+
+
+   [head=3]Ever seen a form with a header such as this?[/head]
+    ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
+   ▶ ⡇# Suit Sensors PSA ⠀         ⡇  ◀
+    ⡇[color=#5b97bc]█▄ █ ▀█▀[bold]Public Service Announcement[/bold][/color]⡇
+    ⡇[color=#5b97bc]█ ▀█     █   [bold]From the desk of Medical[/bold][/color]    ⡇
+    [color=gray]⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⠀⠀⠀ ⠀⠀⠀⠀⠀ ⡇
+    [/color][color=lightgray]⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⠀⠀ ⠀⠀⠀⠀⠀⠀ ⡇[/color]
+
+   [head=3]That's not a header! That's a document label![/head]
+
+    Fax machines allow you to print saved documents. When you print a document with one of these document labels, it will automatically label the paper with the provided text!
+
+    The label is [bold]not[/head] intended to be printed onto the page. PLEASE remove the label and the line it's on if you are not printing the document, but rather manually writing it.
+
+    If you are planning on properly using a document label, make sure it is formatted properly. It should always be the first line of your saved document.
+
+            [color=red]✘[/color]  [head=3]#label[/head] [color=red]✘[/color]
+
+           [color=green]✔[/color] [head=3]# label[/head] [color=green]✔[/color]
+          [italic]Don't forget the space![/head]
