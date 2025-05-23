@@ -1,0 +1,49 @@
+# TEG Manual p1
+                                [color=#f39f27]╔══════════════════╗
+                                ║███░███░░░░██░░░░░║
+                                ║░██░████░░░██░░░░░║
+                                ║░░█░██░██░░██░█░░░║
+                                ║░░░░██░░██░██░██░░║
+                                ║░░░░██░░░████░███░║
+                                ╚══════════════════╝[/color]
+                       [head=3]NanoTrasen Engineering Corps[/ head]
+                                    [head=3][color=#1b487e]TEG Manual part 1[/color][/head]
+─────────────────────────────────────────
+[head=3][color=#009100]The basics[/color][/head] 
+The Thermo-Electric Generator (commonly refered to as TEG) is a marvel of NanoTrasen engineering. The theory behind it is rather simple as the TEG generates power by heat exchange. It has two parts commonly refered to as [color=#5b97bc]COLD loop[/color] and  [color=#cb0000]HOT loop[/color]. They both intake gas which allows the core part of the generator to produce power by heat exchange between the two loops. The greater the temperature difference the more power is generated. TEG is at it's most efficient when the difference between [color=#5b97bc]COLD[/color]  and [color=#cb0000]HOT[/color] loops is ~1500 degrees Celsius. If the difference is lower the generator looses efficiency and produces lower ammounts of power than it should. Greater differences are wasting heat with not noticable increase in efficiency.
+
+────────────────────────────────────────
+[head=3][color=#1b67a5]The setup[/color][/head]
+                                                                 ┌────────┐   
+                                                                  │ BURN          │   
+                                                                  │ CHAMBER  │   
+                                                                 └┬─────▲─┘   
+                                                                    │    200L/s│    
+ 200L/s                                                       │                │    
+◄───────┐                                          │                │    
+                        │                                       T │~5L/s      │    
+      ┌─────┬────────────┬──▼───┐     │    
+      │               │                                  │                 │     │    
+      │ COLD   │    CORE                    │     HOT   │      │    
+      │               │                                  │                │      │    
+      └─────┴────────────┴──┬───┘      │    
+                        │                                          │                │    
+                         │                        4500kPa▼                │    
+ 200L/s           │                                         │                 │    
+───►────┘                                         └──────┘    
+           ▲4500kPa                                    ▲           
+            │                                                     │ 4500kPa   
+      ┌─┼─┐                                          ┌───┐        
+      │CAN│                                           │CAN│        
+      └───┘                                          └───┘                                                                                                              
+In general both loops should be filled with plasma. One canister is plenty to fill both, the way you do this is like this:
+
+1. Wrench a full plasma canister to the [color=#cb0000]HOT loop[/color] input and immidiatly unwrench. Only turn on the pump once the canister is un-wrenched. This will leave a few moles of plasma in the hot loop which is plenty for the TEG operation. Remember, as gas gets hotter the pressure increases. And as it gets colder the pressure decreases, hence why we need a lot more plasma in the cold loop than the hot. 
+
+2. Wrench the rest of the plasma to the cold loop and empty the canister inside.
+
+You may notice that one of the pumps in the diagram is marked with T. This is the so called throttle pump. By increasing and decreasing the flow in this pump we can control how much gas gets into the TEG and therefore how much power it generates. The more flow the more power is generated but the quicker the stored heat in the burn chamber is lost. Usually values around 5L/s are enough to power the station indefinitely given enough heat in the burn chamber. You should keep the throttle pump OFF while setting up the burn chamber. Once you've produced enough heat turn it on and the generator will come to life.
+
+There are of course more efficient setups possible and you are encouraged to research and experiment, but this one is efficient enough to power the station for an entire shift.
+────────────────────────────────────────
+Continue to part 2 for loop setup...
