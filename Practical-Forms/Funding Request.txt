@@ -1,0 +1,30 @@
+# Funding Request Form
+[color=#1b67a5]█▄ █ ▀█▀    [head=3]Funding Request[/head]
+█ ▀█     █        [/color]From: NAME
+──────────────────────────────────────────
+I am requesting additional funding for the following fund:
+
+(  ) (ENG) Maintenance Savings
+(  ) (MED) Crew Healthcare Fund
+(  ) (RND) Interstellar Development Funding
+(  ) (SEC) Station Defense Reserves
+(  ) (SRV) Collective Service Holdings
+
+──────────────────────────────────────────
+[head=2]Amount[/head]
+
+I would like to request an additional Revenue Division of
+                 % for the listed fund
+‾‾‾‾‾‾‾‾
+──────────────────────────────────────────
+[head=2]Reasoning[/head]
+
+Please explain below why this funding is required:
+    [color=#002AAF]Lorem ipsum dolar sit amet. sample text. yata yata.
+
+[/color]
+
+Signature:  [color=#002AAF]Sample Name[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[color=#aaaaaa]Next, turn this form into the Head of Personnel, who will give their stamp of approval or disapproval upon your request.[/color]
