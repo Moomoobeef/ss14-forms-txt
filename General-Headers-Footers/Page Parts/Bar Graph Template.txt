@@ -1,3 +1,4 @@
+# Bar Graph Template
 [color=gray]░░░░░███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░[/color]▌100%
 [color=gray]░░░░░███░░░░░░░░░░░░░░░░░░░░░███░░░░░[/color]▌87.5%
 [color=gray]░░░░░███░░░░░▄▄▄░░░░░░░░░░░░░███░░░░░[/color]▌75.0%
@@ -11,4 +12,35 @@
            Item #1             │              Item #3             │
                                 Item #2                              Item #4
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ALTERNATIVE MONOSPACE VERSION:
+
+[mono]
+[color=gray]     ███                             [/color]▌100%
+[color=gray]     ███                     ███     [/color]▌87.5%
+[color=gray]     ███     ▄▄▄             ███     [/color]▌75.0%
+[color=gray]     ███     ███             ███     [/color]▌62.5%
+[color=gray]     ███     ███             ███     [/color]▌50.0%
+[color=gray]     ███     ███             ███     [/color]▌37.5%
+[color=gray]     ███     ███             ███     [/color]▌25.0%
+[color=gray]     ███     ███     ███     ███     [/color]▌12.5%
+[color=gray]     ███     ███     ███     ███     [/color]▌0%
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+   Item #1    │    Item #3    │
+           Item #2          Item #4[/mono]
+
+ALTERNATIVE COLOR VERSION
+NOTE: this thing is pain to edit, please for your own sake do not try to edit this graph ingame, use a text editor that allows you to disable word wrapping.
+
+[mono]
+     [color=red]███     [color=green]        [color=blue]        [color=orange]        [color=#000000]▌100%
+     [color=red]███     [color=green]        [color=blue]        [color=orange]███     [color=#000000]▌87.5%
+     [color=red]███     [color=green]▄▄▄     [color=blue]        [color=orange]███     [color=#000000]▌75.0%
+     [color=red]███     [color=green]███     [color=blue]        [color=orange]███     [color=#000000]▌62.5%
+     [color=red]███     [color=green]███     [color=blue]        [color=orange]███     [color=#000000]▌50.0%
+     [color=red]███     [color=green]███     [color=blue]        [color=orange]███     [color=#000000]▌37.5%
+     [color=red]███     [color=green]███     [color=blue]        [color=orange]███     [color=#000000]▌25.0%
+     [color=red]███     [color=green]███     [color=blue]███     [color=orange]███     [color=#000000]▌12.5%
+     [color=red]███     [color=green]███     [color=blue]███     [color=orange]███     [color=#000000]▌0%
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+   Item #1    │    Item #3    │
+           Item #2          Item #4[/mono]
