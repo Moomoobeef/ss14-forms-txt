@@ -1,0 +1,94 @@
+# Tom's Guide to Bureaucracy: Volume Two
+[color=#aaaaaa]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[head=1]Tom's Guide to Bureaucracy[/head]
+[head=2]Volume 2: Writing[/head]
+[color=#aaaaaa]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+Now for the moment you've all been waiting for, where I actually teach you how to do some [italic]real bureaucracy.[/italic]
+
+[head=3]BEFORE THE PEN EVEN COMES OUT[/head]  [color=#e5e5e5]███████████[/color]
+Before you pull your pen out of whatever sad dark hole you store it in, you need to think about [italic]what[/italic] you're writing.
+[bold]The main things you need to consider are[/bold]
+ > Are you filling a template? Writing a letter? Etc.
+ > The purpose of this document/form/letter
+ > Who is it for
+ > Who is going to interact with it
+    Which heads should be privy, if any?
+ > What information is [italic]important[/italic]
+    You must strike a balance between including too little
+    information to be useful, and including so much that
+    nobody is going to have the time to read/fill the thing.
+ > What should be the demeanor/spirit of the page.
+    There's a big difference between a legal document, and an
+    invitation to a birthday party. Your tone and formatting
+    must reflect that.
+
+[bold]Things that every document should strive to be.[/bold]
+[bold] > Readable.[/bold]
+    Consistent formatting helps here, as does grammar and
+    spelling. But also knowing when to break up large texts.
+[bold] > Concise, not condensed.[/bold]
+    Don't overcomplicate, don't reiterate too many times.
+    Don't make something so long that nobody cares. [italic](Tom
+    himself could learn to internalize this bit)[/italic] But don't make
+    something so DENSE that nobody can understand.
+[bold] > Professional.[/bold]
+    In some circumstances this one can be ignored. But it must
+    be a concious decision to do so, formal is default. Please do
+    not talk like a child in your fax to CentCom. You can get the
+    whole station fired. You don't need to speak like a lawyer
+    though. You just need to act mature. Like an adult.
+
+[head=3]STRUCTURE YOUR THOUGHTS[/head]  [color=#e5e5e5]████████████████[/color]
+Most documents have a few main parts:
+ > Header, include basic important info like name or topic
+ > Body, this is where paragraphs go
+ > Footer, usually just something like "signed, NAME"
+
+And the Body can often have parts of its own:
+ > Introduction/background, introduce the reader to the doc
+ > Action item, the meat/potatoes, maybe a request or a
+    declaration or something. Usually the whole REASON you
+    are writing, goes here.
+ > Context/reasoning, you might put a reason for the action
+    item here. Some sort of explanation or additional info.
+
+Of course, not all documents/letters are or should or have to be structured this way. You can structure them exactly how you want, but they should have [bold]some kind of structure[/bold], and that is the main point of this section.
+
+[head=3]BASIC FORMATTING & YOU[/head]  [color=#e5e5e5]██████████████████[/color]
+Formatting is important for looking professional. It's also the most fun part of writing if you think of yourself as a creative person. Volume 3 covers extended formatting, here we will simply cover basic formatting.
+
+Tags are the way that you create bold or italicized text.
+        \[bold][bold]Like this![/bold]\[/bold]
+
+Tags follow basic rules in their construction, they are always surrounded by brackets and they are ended using "/" at the beginning of the tag you want to end. They can also be escaped with "\\"[I had to escape the slash with a second one I dont know why] which is useful if you need them to be visible in the text (like above).
+[bold]An up to date list of tags and their use can be found in the "writing" section of the guidebook.[/bold]
+
+Important tags include:
+ > \[head=#], creates headers on a size between 1 and 3.
+    (1 being the biggest)
+ > \[bold], self-explanatory
+ > \[italic], self-explanatory
+ > \[bolditalic], does both
+ > \[bullet/], makes a bullet point. Though, > or - looks just as
+    good or better, and is fewer characters.
+ > \[color=#], takes either names like "blue", "red" or hex
+    codes like "#ff2222", "#AAAAAA", etc.
+
+[head=3]Tips![/head]
+ > Header can be used for more than just headers,
+    be creative! Try new things!
+ > Big headers can end up intruding on the line above them,
+    and will get cut off if they are in the first line of the
+    document, so make sure to give them space
+ > You can use multiple tags on the same text, such as an
+    italic header or a blue bullet point
+ > Try not to use colors that are hard to read, and make sure
+    not to overdo it. Your document should not look like clown
+    vomit. (unless you're going for that)
+ > If you see something very impressive you can open it with
+    your pen to see how it is put together, unless it is stamped
+    in which case it cannot be edited. (DONT STEAL THOUGH)
+ > [bold]Never eat any taco bell left-overs that are 4 days old
+    or older.[/bold]
+
+If you still want to learn more, please see Volume 3: Extended Formatting. And maybe brush your teeth before you get there, I don't want to hurt you, but... you smell.

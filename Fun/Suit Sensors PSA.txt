@@ -8,7 +8,7 @@
 [italic]We here at the Medical department sure do![/italic]
 And NT does too, that is why they created suit sensors so that the Medical department can know where you are any time you run into trouble!
 
-However, these systems are not always set to the correct setting by default. So please, for everones sake, set your suit sensors to "coordinats" so we can serve you as well as possible!
+However, these systems are not always set to the correct setting by default. So please, for everyone's sake, set your suit sensors to "coordinates" so we can serve you as well as possible!
 
 ──────────────────────────────────────────
-Sincerely, Tom Carter, on behalf of the Medical department.
+Sincerely, <NAME>, on behalf of the Medical department.

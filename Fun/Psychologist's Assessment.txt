@@ -1,0 +1,38 @@
+# Psychologist's Assessment                                   
+                                                  [color=#5b97bc]   ░░██░░ 
+                                                     ██████ 
+                                                     ░░██░░ 
+                       [bold][head=2]╔══════════════════╗
+                          Station Medical
+                   Psychiatric Analysis and 
+                               Evaluation[/color][/bold][/head]
+
+Patient:  Sample 
+
+Evaluator:  Sample 
+
+Situation:  Sample 
+
+Possible Triggers:  Sample 
+
+Initial Diagnoses:  Sample 
+
+Symptoms:  Sample 
+
+Additional Notes:  Sample 
+
+Suggested Actions and Treatment:  Sample 
+
+Additional Notes:  Sample 
+
+Evaluators Signature:  Sample
+
+
+
+
+
+
+
+
+
+

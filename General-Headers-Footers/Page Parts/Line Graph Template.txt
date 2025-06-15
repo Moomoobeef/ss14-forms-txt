@@ -26,4 +26,4 @@ NOTE: this thing is pain to edit, please for your own sake do not try to edit th
 [color=gray]        ▄▄▄  ▄███████████████████████[/color]▌12.5%
 [color=gray]▄▄▄██████████████████████████████████[/color]▌0%
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-[/mono]
+[/mono]put x axis key down here :P

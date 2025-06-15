@@ -1,0 +1,27 @@
+# No one at the desk? Intercom PSA
+[head=1]+―――――――[/head]
+[head=3] │ [/head][head=2]No one at the desk?[/head][head=3]
+ │ [/head][head=1]Use the Intercom![/head]
+[head=3] [color=#85877e]|[/head][/color]
+          Near this desk should be an intercom. See the figure
+      below for a visual reference. Using the intercom's
+      interface, select this department's channel. Enable both
+      the speaker and microphone, then simply ask for what
+      you need. After you're done speaking, please disable the
+      microphone.
+
+    ▄█▀▀██▀▀▀▀▀▀▀▀▀▀▀▀▄
+    █▒▒▒▒█▒▒[color=#00ffff]▄███▀█▄[/color]▒▒▒█
+    █▒▒▒▒█▒▒[color=#00ffff]▀█████▀[/color]▒▒▒█
+    ██▄▄██▄▄▄▄▄▄▄▄▄▄▄▄█
+    █▒[color=#86fa00]▄▄[/color]▒▒▒▄▄▒▄▄▒▒▒[color=#fa0000]▄▄[/color]▒█
+    ▀▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▀
+           [color=green]▲                [/color][color=darkred]▲[/color]
+            [color=green]│                        [/color][color=darkred]│[/color]
+            [color=green]│                        [/color][color=darkred]│[/color]
+            [color=green]│                           [/color][color=darkred]└─  [head=1]Speaker on[/head][/color]
+            [color=green]│             [/color][color=darkred][head=2]when lit[/head][/color]
+            [color=green]│
+            │
+            └─ [head=1]Microphone on[/head]
+         [head=2]when lit [/head] (turn off when done)[/color]
