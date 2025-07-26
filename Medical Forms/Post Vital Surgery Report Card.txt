@@ -1,7 +1,7 @@
 # Medical - Post Vital Surgery Report Card
 [color=#5b97bc]█▄ █ ▀█▀    [head=3]Nanotrasen Medical Department [/head] [head=1]+[/head]
 █ ▀█     █ [/color] [color=black]      Vital Surgery Report Card[/color]
-──────────────────────────────────────────
+────────────────────────────────────────
 This document provides a post-operative report detailing any limbs or organs that were replaced during a vital life-saving surgical procedure.
 
 Patient Name: [color=#002AAF]Sample Person[/color]
@@ -19,4 +19,4 @@ Organs/Limbs Replaced: [color=#002AAF]XXX, XXX, XXX[/color]
 [color=#aaaaaa]Any misuse or falsification of the information contained in this report, including unauthorized access to or use of data related to vital life-saving surgical procedures, is subject to disciplinary action and a fine of up to 5,000 credits, in accordance with NanoTrasen Health Insurance Handbook §12-6.3c.[/color]
 
                        [head=3] Signature of operating Surgeon [/head]
-─────────────────────────────────────────────────
+─────────────────────────────────────────
