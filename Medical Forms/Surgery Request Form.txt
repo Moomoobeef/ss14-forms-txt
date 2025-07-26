@@ -1,7 +1,7 @@
 # Medical - Surgery Request Form
 [color=#5b97bc]█▄ █ ▀█▀    [head=3]Nanotrasen Medical Department [/head] [head=1]+[/head]
 █ ▀█     █ [/color] [color=black]      Surgery Request Form[/color]
-──────────────────────────────────────────
+─────────────────────────────────────────
 This form serves as an official request for a surgical procedure, which may involve the replacement of one or more limbs or organs per the patient's request.
 
 Patient Name: [color=#002AAF]Sample Person[/color]
@@ -17,4 +17,4 @@ Requested Organs to be replaced: [color=#002AAF]XXX[/color]
 [color=#aaaaaa]NanoTrasen assumes no responsibility for any post-operative outcomes, complications, or long-term effects resulting from the approved surgical procedure. By signing this document, all parties acknowledge that NanoTrasen is not liable for medical, psychological, or physiological conditions that may arise following surgery, as outlined in the NanoTrasen Health Insurance Handbook §32-2.6c.[/color]
 
                      [head=3] Signature of the requesting party [/head]
-─────────────────────────────────────────────────
+─────────────────────────────────────────
