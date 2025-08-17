@@ -1,0 +1,27 @@
+# Xenoarcheology Guide - Chapter 1: Abstraction
+
+[color=#c96dbf]
+░▀▄▄▀░ [head=2]Science Guide[/head] 
+░█░░█░ [head=3]Xenoarcheology - Chapter 1: Abstraction[/head] 
+░▄▀▀▄░ [head=3]Written by Researchers Pebbles Rainbringer, Nyxilath Steele, Calling Calipso, Pip Soak, Koho Moeller and Kaiser Eclipsewing[/head] 
+[/color] 
+────────────────────────────────────────── 
+Within the space of Research and Development, Xenoarcheology is a rich and complex field full of mysteries to be discovered - so it's good to know what all can happen. 
+[head=3]What is an Artifact?[/head] 
+An artifact is any sort of physical otherworldy object, and they vary wildly in size, shape, and effects. Artifacts have a series of Stimulus-Reaction pairs called Nodes, and they all fit into a small tree. Below is an example. 
+
+Node 1 (Depth 0, Edges 4)
+├Node 2 (Depth 1, Edges 1)
+├Node 3 (Depth 1, Edges 1)
+├Node 4 (Depth 1, Edges 3)
+│├Node 5 (Depth 2, Edges 1)
+│└Node 6 (Depth 2, Edges 1)
+└Node 7 (Depth 1, Edges 1)
+
+In this example you have a simple three-layer tree with a total of seven nodes; Seven possible and unique Stimulus-Reaction pairs.
+
+To better understand artifact tree navigation, it is important to understand two common terms: 'Depth' and 'Edges'. Depth is the numerical representation of how far away you are from the base initial node - each artifact starts at Depth 0 (as seen with Node 1), may descend down or ascend up depending on the controls of the Artifact Analyzer Console. 'Edges' on the other hand represent the number of directly connected nodes from your current node - the number of possible paths we can travel down and up the tree from our current position. It is important to remember that your edge value always includes your return path up (with the sole exception of where depth is 0, as you cannot go any higher), so for most common applications the total number of possible destinations while descending is equal to our edge value minus 1.
+
+Putting this example to use in our tree above, descending from node 1 will choose one of its four edges: node 2, node 3, node 4, or node 7. If we end up on nodes 2, 3, or 7 - we will have an edge value of 1, showing there are no further nodes to explore down this path. We can then go back up to node 1 to descend down again, until we have fully mapped out and explored our artifact tree.
+
+With each unique node that we activate for the first time, we then can extract research from the artifact, which then will be stored within our R&D server. These points fuel our ability to develop new machines, tools, and services for our station, and improves the financial stock value of Nanotrasen for its shareholders.
