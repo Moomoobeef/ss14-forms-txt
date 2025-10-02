@@ -11,7 +11,7 @@ Patient Department (if applicable): [color=#002AAF]XXX[/color]
 
 ────  
 State of the Patient upon final examination:  [color=#002AAF]XXX[/color]  
-Date & Time of Death: [color=#002AAF]XXX[/color]  
+Time of Death: [color=#002AAF]XXX[/color]  
 Cause of Death: [color=#002AAF]XXX[/color]  
 Location of Death  (if known): [color=#002AAF]XXX[/color]  
 
