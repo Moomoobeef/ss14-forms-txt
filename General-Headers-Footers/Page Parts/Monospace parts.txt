@@ -1,0 +1,30 @@
+# Monospace Elements
+[head=2]Monospace Elements[/head]
+NT printers support monospaced fonts, and can be used with the \[mono] tag. Here are some elements that are made using this feature.
+
+[bold][color=#00aa11]▌Advice[/color][/bold][italic]
+[color=#00aa11]▌[/color]In order to edit these elements, I would highly recommend
+[color=#00aa11]▌[/color]an external text editor that will let you view in monospace.[/italic]
+
+[start here]
+[mono]
+        ║column A│column B│Column C
+════════╬════════╪════════╪════════
+Row A   ║Content │yea     │
+────────╫────────┼────────┼────────
+Row B   ║        │        │
+────────╫────────┼────────┼────────
+Row C   ║        │        │
+
+See [color=blue]Line Graph Template.txt[/color] and [color=blue]Bar Graph Template.txt[/color] for graphs.
+
+ ________________________________
+< I am in here purely as a joke. >
+ --------------------------------
+        \\   ^__^
+         \\  (oo)\\_______
+            (__)\\       )\\/\\
+                ||----w |
+                ||     ||
+
+I honestly cannot think of what else to add here :/

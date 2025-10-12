@@ -1,7 +1,7 @@
 # Incident Report Form
-[color=#1b67a5]█▄ █ ▀█▀    [head=3]INCIDENT REPORT[/head]
-█ ▀█     █        
-══════════════════════════════════════════
+[color=#92beca]▀█▀[/color] [color=#af7244]█▀█[/color]   │  [head=3][color=#141d2b]Trieste Incident Report Form[/color][/head]
+[color=#ffffff]░[/color][color=#92beca]█[/color][color=#ffffff]░[/color] [color=#af7244]█▀▀[/color]   │  [color=#141d2b][bold]Standardized Form 100[/bold][/color]
+─────────────────────────────────────────
 [color=#141d2b]This document is to help you report incidents in a standard and concise fashion.
 
 [head=3][head=2]§1[/head] Severity[/head]
@@ -11,7 +11,7 @@
 (  ) Minor
 (  ) Considerable
 (  ) Serious
-(  ) Station Threatening
+(  ) Platform/Sweetwater Threatening
 
 1.2 How many people are affected by the incident?
 (  ) Just a few
@@ -46,12 +46,15 @@
 \[  ] Corrupt command staff
 \[  ] Departmental insubordination
 \[  ] Harmful non-humanoid lifeforms
-\[  ] Syndicate or Other incursion?
+\[  ] Nanotrasen or Syndicate incursion?
 \[  ] Harmful anomalous entities/objects
 \[  ] Harmful artifacts of alien or unknown origin
 
 3.2 These areas are particularly endangered:
+\[  ] Sweetwater:
 \[  ] Sci     \[  ] Engi  \[  ] Service       \[  ] Bar      \[  ] Other
+
+\[  ] Trieste Platform:
 \[  ] Med  \[  ] Sec    \[  ] Command \[  ] Cargo \[  ] Other
 
 3.3 Are any of the following true?

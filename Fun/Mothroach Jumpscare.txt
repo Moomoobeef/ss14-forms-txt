@@ -1,0 +1,16 @@
+# Mothroach Jumpscare
+░░░░░░░░░░░░░░░░░[color=#81572A]██[/color]░[color=#81572A]██[/color]░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░[color=#81572A]██[/color][color=#A1723C]█[/color][color=#81572A]███[/color][color=#A1723C]█[/color][color=#81572A]██[/color]░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░[color=#81572A]█[/color][color=#A1723C]██[/color][color=#81572A]██[/color][color=#DBC18A]█[/color][color=#81572A]██[/color][color=#A1723C]██[/color][color=#81572A]█[/color]░░░░░░░░░░░░░
+░░░░░░░░░░░░[color=#E8CB8C]█[/color][color=#DFBF7B]███[/color][color=#E8CB8C]█[/color][color=#C7A565]█████[/color][color=#E8CB8C]█[/color][color=#DFBF7B]███[/color][color=#E8CB8C]█[/color]░░░░░░░░░░░
+░░░░░░░░░░░░[color=#81572A]█[/color][color=#F7D896]█[/color][color=#E8CB8C]██[/color][color=#DFBF7B]██[/color][color=#A1723C]███[/color][color=#DFBF7B]██[/color][color=#E8CB8C]██[/color][color=#F7D896]█[/color][color=#81572A]█[/color]░░░░░░░░░░░
+░░░░░░░░░░░░[color=#81572A]██[/color][color=#A1723C]█[/color][color=#C7A565]█[/color][color=#F7D896]█[/color][color=#A1723C]█[/color][color=#E5CD99]███[/color][color=#A1723C]█[/color][color=#F7D896]█[/color][color=#C7A565]█[/color][color=#A1723C]█[/color][color=#81572A]██[/color]░░░░░░░░░░░
+░░░░░░░░░░░░[color=#81572A]█[/color][color=#A1723C]█[/color][color=#DFBF7B]█[/color][color=#F7D896]█[/color][color=#A1723C]█[/color][color=#222021]█[/color][color=#DBC18A]█[/color][color=#E5CD99]█[/color][color=#DBC18A]█[/color][color=#222021]█[/color][color=#A1723C]█[/color][color=#F7D896]█[/color][color=#DFBF7B]█[/color][color=#A1723C]█[/color][color=#81572A]█[/color]░░░░░░░░░░░
+░░░░░░░░░░░░[color=#81572A]█[/color][color=#A1723C]█[/color][color=#DFBF7B]██[/color][color=#222021]█[/color][color=#2C2827]█[/color][color=#222021]█[/color][color=#DBC18A]█[/color][color=#222021]█[/color][color=#2C2827]█[/color][color=#222021]█[/color][color=#DFBF7B]██[/color][color=#A1723C]█[/color][color=#81572A]█[/color]░░░░░░░░░░░
+░░░░░░░░░░░░░[color=#81572A]█[/color][color=#C7A565]█[/color][color=#DFBF7B]█[/color][color=#A1723C]█[/color][color=#222021]█[/color][color=#DBC18A]███[/color][color=#222021]█[/color][color=#A1723C]█[/color][color=#DFBF7B]█[/color][color=#C7A565]█[/color][color=#81572A]█[/color]░░░░░░░░░░░░
+░░░░░░░░░░░░░░[color=#C7A565]█[/color][color=#E8CB8C]█[/color][color=#DFBF7B]█[/color][color=#A1723C]█[/color][color=#D4AF6B]███[/color][color=#A1723C]█[/color][color=#DFBF7B]█[/color][color=#E8CB8C]█[/color][color=#C7A565]█[/color]░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░[color=#C7A565]█[/color][color=#DFBF7B]█[/color][color=#F7D896]█[/color][color=#A1723C]███[/color][color=#F7D896]█[/color][color=#DFBF7B]█[/color][color=#C7A565]█[/color]░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░[color=#A1723C]█[/color][color=#E8CB8C]█[/color][color=#F7D896]█[/color][color=#DFBF7B]███[/color][color=#F7D896]█[/color][color=#E8CB8C]█[/color][color=#A1723C]█[/color]░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░[color=#2E2A26]█[/color][color=#222021]█[/color][color=#C7A565]█████[/color][color=#222021]█[/color][color=#2E2A26]█[/color]░░░░░░░░░░░░░░
+
+[color=#A1723C][head=1]                  *chitters*[/head][/color]

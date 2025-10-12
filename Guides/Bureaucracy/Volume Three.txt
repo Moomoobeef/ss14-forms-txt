@@ -1,0 +1,55 @@
+# Tom's Guide to Bureaucracy: Volume Three
+[color=#aaaaaa]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[head=1]Tom's Guide to Bureaucracy[/head]
+[head=2]Volume 3: Extended Formatting[/head]
+[color=#aaaaaa]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+Today we are talking about extended formatting, which is probably the whole reason you bought (or stole) a copy of this book in the first place. There's no discussion of how to properly structure your writing or anything like that, because that was in volume 2. Today, we're talking about how to make the page look fancy schmancy.
+
+[head=3]SPECIAL CHARACTERS[/head]  [color=#e5e5e5]███████████████████████[/color]
+ASCII is a widely used set of characters first defined all the way back in 1963, and revised several times thereafter; it contains all the important characters for communication, A-Z, 0-9, and some symbols like $, %, &, etc.
+
+However, you are not limited to just ASCII. There is another set called WGL4, all of the characters of which are known to work correctly. There is also unicode, but it is known to have certain issues with NT equipment so I would [bold]highly[/bold] recommend sticking to WGL4.
+
+[italic]If you don't know what WGL4 is, feel free to look it up on the NT-Net or another capable search engine.[/italic]
+
+With WGL4 in hand, we have access to certain box-drawing characters that can be used to create simple graphics, or to draw lines that can be useful for all sorts of things. You can even use the box characters and the \[color] tag to create simple images.
+
+Sometimes, when using these characters to draw lines or boxes you may have slight vertical misalignments, that you can't fix with simple spaces. There are special whitespace characters that are thinner than a regular space, such as the hair-space and the six-per-em space. These are both provided by unicode for typesetting purposes, but have been tested to work correctly here; just as before you can acquire and copy these characters using a search engine.
+
+[head=3]HEADERS[/head]  [color=#e5e5e5]█████████████████████████████████[/color]
+Headers are one of the easiest ways to make a document look good. They're also pretty easy, though you can always go fancier, a simple but professional looking header can easily be pasted onto a document and set up within just 30 seconds.
+
+If you look in the attached "Page Parts" folder, you should see a document labeled "Title Decorations", inside there are various titles and headers ranging from big to small that can be easily adapted for use in whatever it is you are making. But you didn't come to a book called "extended formatting" to be taught how to copy-paste, you want to make your own!
+
+Well, you have to get creative for this, and theres no real way to teach creativity other than just practice; however I can give you some tips to get you on your way.
+ > \[head=1] sized text is taller than one line, so be careful
+ > you can use color in your headers, some have even put gradients or rainbows into theirs. If you are also trying to conserve on character limit, after the header you can just do \[color=#000000] or some such to set the text color back to normal, instead of doing \[/color] for every single color tag you used.
+ > Try not to make something too noisy, it should look nice, but also be readily readable within less than 5 seconds.
+ > Use lines or blocks from WGL4 to add shapes to your header, such as stripes or boxes, or even a small logo.
+ > Try making a standardized header to use on your documents, for a uniform and organized look.
+
+[head=3]PROBLEMS[/head]  [color=#e5e5e5]████████████████████████████████[/color]
+Everyone runs into them eventually, and in this field there are some common ones which I'm going to tell you about, and tell you how to solve. Now, we're only talking about problems related to formatting, so for lung cancer or alcohol addiction you're going to have to ask someone else.
+
+[bolditalic]A clown set me on fire and all my documents burned into ashes! I lost all my work!![/bolditalic]
+Goddamnit kid, this is the first thing they teach you when you go to college for beauracracy. Always keep copies of anything important somewhere safe. Make a copy and store it in your office, give it to a good mate, or even just save it on your computer instead of on the paper. These are all preventative steps you can take for such a situation. Unfortunately, if you failed to take those steps, there's nothing to be done except seeking revenge on all clowns from now on.
+
+[bolditalic]When my page gets too long some of my formatting breaks![/bolditalic]
+This is an easy one, when a pages contents becomes too long to see on just one page, a scrollbar is added. Unforunately, this scroll-bar intrudes on the page area, slightly reducing the width of the page. For this reason, you have to be careful to include wiggle room next to any horizontal element (such as a horizontal line) so that this doesn't break it.
+
+[bolditalic]My wife left me.[/bolditalic]
+Didn't you read volume 1? You are now married to paper, and paper will never leave you.
+
+[bolditalic]I am trying to use brackets to make something, but they dissappear when I write them down![/bolditalic]
+Anything contained within \[] brackets, is treated as a tag, even if it isn't one. For this reason, you must use the escape character, \\ like so: \\\[stuff]
+
+[head=3]TAGS & YOU[/head]  [color=#e5e5e5]███████████████████████████████[/color]
+Some of them are useful, some are less so.
+
+\[bullet/] I pretty much never use, I just use > or •, which is one character as apposed to several.
+
+Pretty much all the others are useful.
+
+[head=3]CONCLUSION[/head]  [color=#e5e5e5]██████████████████████████████[/color]
+Unfortunately, I have to end it here, my publisher is telling me that if I don't finish within 48 hours they will literally drag me out of my home kicking and screaming and fire me out of a canon into the fucking sun while making my family watch.
+[color=red]This is not a joke please help m

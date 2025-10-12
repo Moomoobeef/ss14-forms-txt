@@ -1,0 +1,28 @@
+# Prisoner Orientation Form
+                                                [color=#cb0000]░█▄▄█░ 
+                                                ██▄▄██ 
+                                                ▀█▄▄█▀                          
+                
+                             ╔══════════════════╗[/color]
+───────────────────────────────────────── 
+[head=1][bold]    New Prisoner Orientation
+                      Guide [/bold][/head]
+─────────────────────────────────────────
+Welcome to the brig, new inmate! You are here because you've been found guilty of criminal activity and have been sentenced to serve time within the confines of the brig. The arresting officer should have by now informed you of your charges and set your sentence with the Station's automatic cell system. You can view the time left on your sentence on the helpful display right outside your brig door. Once this time is up, you will be free to go about your business aboard the Station.
+
+Here are some important things to note during your stay:
+─────────────────────────────────────────
+[bullet][bold]All of your belongings will be returned to you after your sentence has been served[/bold], either by the automatic opening of your cell's locker, or by manual return by our friendly and helpful security team. However, this [bold]DOES NOT[/bold] include any items or tools used in the crimes you have been sentenced for. These will be confiscated permanently.[/bullet]
+─────────────────────────────────────────
+[bullet][bold]If you self-harm while in custody, security forces are under no obligation to heal you. [/bold] Yes, it's true! Should you hurt and/or kill yourself while incarcerated, the brig staff is not required to provide medical assistance until[bold] AFTER[/bold] your sentence is done. 
+─────────────────────────────────────────
+[bullet][bold]Damaging your cell can be considered an escape attempt[/bold] and can lead to increased time on your sentence. Please do not break the lights, the bed, the treadmill, or anything else in your cell as your timer will be reset or even increased. ─────────────────────────────────────────
+[bullet][bold]Insulting security staff is not going to help you in any way, shape, or form.[/bold] You're more likely to gain their sympathy and a reduced sentence by cooperating and doing as they ask. If you have serious complaints or concerns, please contact an Internal Affairs Agent, the Magistrate, Warden, or Head of Security. In the unlikely event that none of these personnel are available to answer your questions due to staff shortages (or unexpected death), you may submit your requests to the station's NT Representative, or the Captain. [italics][color=#aaaaaa] (Note: If you receive a "NO" to your request from any of these people, please do not continue to contact other people in hopes someone will say yes, or continue to pester them about your concern, as this may lead to the revocation of your radio-communication privileges during your sentence).[/color][/italics]
+
+
+────────────────────────────────────────
+                                   [italics][bold]Please enjoy your stay.[/italics][/bold]
+                                   (and [bold]don't[/bold] come again!)
+
+
+

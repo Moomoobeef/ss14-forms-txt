@@ -1,0 +1,40 @@
+# WGL4 Cheatsheet
+[head=2]WGL4[/head]
+Windows Glyph List 4 is a list of glyphs created for use with the now ancient "Windows" operating system. Despite being long obsolete, NT still recommends sticking to the characters on this list as those [italic]off[/italic] of it, may not be guaranteed to work correctly.
+
+This is not a comprehensive list of all of WGL4, as it contains a lot of regular alphanumeric characters that obviously aren't worth listing here. This list mainly exists to list some of the more interesting characters that may be of use for typesetting.
+
+[bold]- Simple box drawing characters[/bold]
+[mono]─ │ ┌ ┐ └ ┘ ├ ┤ ┬ ┴ ┼
+[/mono]
+[bold]- Double-lined box drawing characters[/bold]
+[mono]═ 	║ 	╒ 	╓ 	╔ 	╕ 	╖ 	╗ 	╘ 	╙ 	╚ 	╛ 	╜ 	╝ 	╞ 	╟
+╠ 	╡ 	╢ 	╣ 	╤ 	╥ 	╦ 	╧ 	╨ 	╩ 	╪ 	╫ 	╬ 	
+[/mono]
+[bold]- Block elements[/bold]
+[mono]▀  ▄  █  ▌  ▐  ░  ▒  ▓
+[/mono]
+[bold]- Geometric shapes[/bold]
+[mono]■  □  ▪  ▫  ▬  ▲  ►  ▼  ◄  ◊  ○  ●  ◘  ◙  ◦
+[/mono]
+[bold]- Latin supplement (partial)[/bold]
+[mono]¡  ¢ 	£ 	¤ 	¥ 	¦ 	§ 	¨ 	© 	ª 	« 	¬ 	- 	® 	¯
+° 	± 	² 	³ 	´ 	µ 	¶ 	· 	¸ 	¹ 	º 	» 	¼ 	½ 	¾ 	¿
+[/mono]
+[bold]- Currency symbols[/bold]
+[mono]₣ 	₤  ₧  €
+[/mono]
+[bold]- Letterlike symbols[/bold]
+[mono]℅  ℓ  №  ™  Ω  ℮
+[/mono]
+[bold]- Number forms[/bold]
+[mono]⅛ 	⅜ 	⅝ 	⅞
+[/mono]
+[bold]- Arrows[/bold]
+← 	↑ 	→ 	↓ 	↔ 	↕  ↨
+
+[bold]- Mathematical operators[/bold]
+∂  ∆  ∏  ∑ 	−  ∕  ∙ 	√  ∞  ∟  ∩  ∫  ≈  ≠  ≡  ≤ 	≥
+
+[bold]- Miscellanious symbols[/bold]
+☺  ☻  ☼  ♀  ♂  ♠  ♣  ♥  ♦  ♪  ♫

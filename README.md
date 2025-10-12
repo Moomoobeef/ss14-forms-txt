@@ -9,3 +9,5 @@ PLEASE remove the label and the line its on if you are not printing the document
 You can find an index of the repo [here](https://github.com/Moomoobeef/ss14-forms-txt/blob/master/Index.md).
 
 You can also find guidelines for contributing [here](https://github.com/Moomoobeef/ss14-forms-txt/wiki/Guidelines).
+
+Tyto has another repo with a similar purpose that can be found [here](https://github.com/TheTyto/SS14-Advanced-Paperwork/tree/main).

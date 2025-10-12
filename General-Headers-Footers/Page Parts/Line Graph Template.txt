@@ -1,0 +1,29 @@
+# Line Graph Template
+[color=gray]░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▄[/color]▌100%
+[color=gray]░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██[/color]▌87.5%
+[color=gray]░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▄███[/color]▌75.0%
+[color=gray]░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▄▄██████[/color]▌62.5%
+[color=gray]░░░░░░░░░░░░░░░░░░░▄▄███░▄▄██████████[/color]▌50.0%
+[color=gray]░░░░░░░░░░░░░░░░▄████████████████████[/color]▌37.5%
+[color=gray]░░░░░░░░░░░░░░░██████████████████████[/color]▌25.0%
+[color=gray]░░░░░░░░▄▄▄░░▄███████████████████████[/color]▌12.5%
+[color=gray]▄▄▄██████████████████████████████████[/color]▌0%
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+put x axis key down here :P
+
+
+[bold]Alternative MONOSPACED version[/bold]
+NOTE: this thing is pain to edit, please for your own sake do not try to edit this graph ingame, use a text editor that allows you to disable word wrapping.
+
+[mono]
+[color=gray]                                    ▄[/color]▌100%
+[color=gray]                                   ██[/color]▌87.5%
+[color=gray]                                 ▄███[/color]▌75.0%
+[color=gray]                             ▄▄██████[/color]▌62.5%
+[color=gray]                   ▄▄███ ▄▄██████████[/color]▌50.0%
+[color=gray]                ▄████████████████████[/color]▌37.5%
+[color=gray]               ██████████████████████[/color]▌25.0%
+[color=gray]        ▄▄▄  ▄███████████████████████[/color]▌12.5%
+[color=gray]▄▄▄██████████████████████████████████[/color]▌0%
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+[/mono]put x axis key down here :P
