@@ -1,4 +1,4 @@
-# NanoTrashen Survey
+# NanoTrasen Survey
 [color=#1b67a5]█▄ █ ▀█▀    [head=3]NanoTrasen Survey[/head]
 █ ▀█     █        Please answer the following questions[/color]
 ──────────────────────────────────────────
@@ -6,7 +6,7 @@ Hello! NanoTrasen has requested that a survey be conducted on the population of 
 
 Facilitator Name:    [italic]NAME HERE[/italic]
                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-[bold]All [italic]section B[/italic] and [italic]section C[/italic] questions are optional, if you would rather not say or you do not know, simply do not respond and instead move on to the next question[/bold]
+[bold]All [italic]section B[/italic] and [italic]section C[/italic] questions are optional, if you would rather not say, or you do not know, simply do not respond and instead move on to the next question[/bold]
 
 [head=2]Section A[/head]
 [head=3]Personnel Identification[/head]

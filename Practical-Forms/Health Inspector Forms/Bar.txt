@@ -18,7 +18,7 @@ Any major violations warrants an automatic F score.
 [bold]Minor Violations:[/bold]
 1 \[  ] Insufficient light for safe food prep
 1 \[  ] No non-alcoholic options
-1 \[  ] No mouse traps present
+1 \[  ] No mousetraps present
 2 \[  ] Trash not picked up
 2 \[  ] Excessive spilt liquids
 2 \[  ] Monkey unclothed

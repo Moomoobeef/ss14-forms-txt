@@ -4,7 +4,7 @@
 ▄▀░░░░ [/color]
 ──────────────────────────────────────────
 
-Crime Comitted:    [color=#002AAF]Sample Crime[/color]
+Crime Committed:    [color=#002AAF]Sample Crime[/color]
                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 Crime Location:    [color=#002AAF]Sample Location[/color]
                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾

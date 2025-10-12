@@ -54,14 +54,14 @@ The bounded Party's(ies) duty to hold the Confidential Information in confidence
 [head=3]6. OBLIGATIONS[/head]
 The obligations of the Parties shall be to hold and maintain the Confidential Information in the strictest of confidence of all times. If any such Confidential Information shall reach a third (3rd) party, or become public, all liability will be on the Party that is responsible. Neither Party shall, without the written approval of the other Party, publish, copy, or use the Confidential Information for their sole benefit. If requested, either Party shall be bound to return any and all materials to the Requesting party within seven (7) days. This Section shall not apply to the 1st Party if this agreement is Unilateral as marked in Section 2.
 
-[head=3]7. REPRESENTIVES[/head]
-The Parties will take reasonable steps to ensure that its Representives adhere to the terms of this Agreement. Should a Representive breach this Agreement the Party being represented by that Representive will be held responsible.
+[head=3]7. REPRESENTATIVES[/head]
+The Parties will take reasonable steps to ensure that its Representatives adhere to the terms of this Agreement. Should a Representative breach this Agreement the Party being represented by that Representative will be held responsible.
 
 [head=3]8. ENFORCEMENT[/head]
 The Parties acknowledge and agree that due to the unique and sensitive nature of the Confidential Information, any breach of this Agreement would cause irreparable harm for which damages and/or equitable relief may be sought. The harmed Party in this Agreement shall be entitled to all remedies available at law.
 
 [head=3]9. INTEGRATION[/head]
-This Agreement expresses the complete understanding of the Parties with respect to the subject matter and supersedes all prior proposals, agreements, representations, and understandings. This Agreement may not be amended except in writing with the acknowledgment of the Parties.
+This Agreement expresses the complete understanding of the Parties with respect to the subject and supersedes all prior proposals, agreements, representations, and understandings. This Agreement may not be amended except in writing with the acknowledgment of the Parties.
 
 [head=3]10. SEVERABILITY[/head]
 If a court finds that any provision of this Agreement is invalid or unenforceable, the remainder of this Agreement shall be interpreted so as best to affect the intent of the Parties.

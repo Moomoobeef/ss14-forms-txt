@@ -10,7 +10,7 @@
                                         [head=3]NanoTrasen[/ head]
 
 [head=2]Building permit[/head]
-[bold]Requeste:[/bold] NAME
+[bold]Request:[/bold] NAME
 [bold]Job:[/bold] JOB
 [bold]Reason for permit:[/bold] REASON
 

@@ -34,9 +34,9 @@ Name:    [color=#002AAF]Sample Person[/color]
 \[  ] Multiple Departments worth    \[  ] Whole Station
 
 [head=2]Section C[/head]
-[bold]Please provide a detailed explanation of the missconduct below, providing all details relevant to the story.[/bold]
+[bold]Please provide a detailed explanation of the misconduct below, providing all details relevant to the story.[/bold]
 
 
 
 
-[bold]After you are done filling out this form, please either submit it to the Captain, the HoP, another relevant command head, or to CentCom via fax for review. Please refrain from involving multiple commanding officers unless it is absolutely nessecary.[/bold]
+[bold]After you are done filling out this form, please either submit it to the Captain, the HoP, another relevant command head, or to CentCom via fax for review. Please refrain from involving multiple commanding officers unless it is absolutely necessary.[/bold]

@@ -23,7 +23,7 @@ Any major violations warrants an automatic F score.
 1 \[  ] No options for lizards (meat required)
 1 \[  ] Foods not served on plates
 1 \[  ] Botanical ingredients kept un-refrigerated
-2 \[  ] No mouse traps present
+2 \[  ] No mousetraps present
 2 \[  ] Meat kept un-refrigerated
 2 \[  ] Meat spike near food-prep area
 3 \[  ] Animals kept near food-prep area
