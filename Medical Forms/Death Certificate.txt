@@ -1,0 +1,28 @@
+# Medical - Death Certificate
+[color=#5b97bc]█▄ █ ▀█▀    [head=3]Nanotrasen Medical Department [/head] [head=1]+[/head]
+█ ▀█     █ [/color] [color=black]      Death Certificate[/color]
+────────────────────────────────────────
+This document certifies the confirmed death of the following patient.
+
+Patient Name: [color=#002AAF]Sample Person[/color]  
+Patient Species: [color=#002AAF]XXXX[/color]  
+Patient Gender: [color=#002AAF]XXX[/color]  
+Patient Department (if applicable): [color=#002AAF]XXX[/color]  
+
+────  
+State of the Patient upon final examination:  [color=#002AAF]XXX[/color]  
+Time of Death: [color=#002AAF]XXX[/color]  
+Cause of Death: [color=#002AAF]XXX[/color]  
+Location of Death  (if known): [color=#002AAF]XXX[/color]  
+
+────  
+Additional Notes:  
+[color=#002AAF]XXX[/color]  
+
+
+
+
+[color=#aaaaaa]Any falsification or misuse of this document, including unauthorized declaration of death, is subject to disciplinary action and a fine of up to 5,000 spesos, in accordance with NanoTrasen Health Insurance Handbook §12-6.3c.[/color]
+
+                       [head=3] Signature of Attending Physician [/head]  
+─────────────────────────────────────────

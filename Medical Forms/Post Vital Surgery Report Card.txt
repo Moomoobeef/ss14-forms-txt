@@ -5,7 +5,7 @@
 This document provides a post-operative report detailing any limbs or organs that were replaced during a vital life-saving surgical procedure.
 
 Patient Name: [color=#002AAF]Sample Person[/color]
-Patient Race: [color=#002AAF]XXXX[/color]
+Patient Species: [color=#002AAF]XXXX[/color]
 Patient Gender: [color=#002AAF]XXX[/color]
 Patient Current Department: [color=#002AAF]XXX[/color]
 ────
