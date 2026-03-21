@@ -1,0 +1,36 @@
+#Itemized Bill
+                            [color=#1b487e]╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝[/color]
+                                        [head=3]NanoTrasen[/ head]
+
+[head=2]Services Bill[/head]
+[bold]Requeste:[/bold] EMPLOYEENAME
+[bold]Job:[/bold] Cleaning, lights, general
+
+Signed: [color=lightblue]EMPLOYEENAME[/color].
+═════════════════════════════════════════
+[head=3]Itemized List[/head]
+[*] 3 hours services:     $ 60,000    [color=green]PAID[/color]
+[*] 1x Janitorial crate    $   2,000    [color=green]PAID[/color]
+[*] 1x Janitorial crate B $     800     [color=green]PAID[/color]
+[*] 3 hrs service             $ 60,000
+[*] 3x Textile crate        $   6,000
+[*] Fuel: 6x plasma       $   7,200
+═════════════════════════════════════════[bold]
+Total                                  $138,000
+Total Paid                         $  65,000
+═════════════════════════════════════════[color=red]
+Owed:                               $  73,000[/color]
+Bonus:                              Optional
+[/bold]
+
+[italic]A 10-20% bonus on the total is suggested.[/italic]
+
+
+
+
