@@ -1,0 +1,22 @@
+[color=#3b7cd1]╔════════╗ █▄ █ ▀█▀  [head=2]Head of Personnel[/head]
+║░░▄██▄░░║ █ ▀█     █      [bold]Job Application Form[/bold]
+║░░████░░║ 
+║▄▄▄██▄▄▄║ 
+╚════════╝
+[bold]────────────────────────────────────────[/bold][/color]
+The following individual is permitted to become a[bold][color=grey] Unknown [/color][/bold]for the[bold][color=grey] Unknown Department[/color][/bold]
+
+Name:       [color=#002AAF] [/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Granter:   [color=#002AAF]XY ~ HoP [/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Station:     [color=#002AAF] [/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Reason:     [color=#002AAF] [/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+
+[color=#AAAAAA]This permission can be revoked at any time by the captain or the individual who granted it.
+This document is not valid unless stamped by the listed granter
+Abusing permissions granted to you by command officers is not recommended.
+Those who abuse granted permission can be fined up to 5000 spesos persuant NT Handbook section 16-8.7c[/color]

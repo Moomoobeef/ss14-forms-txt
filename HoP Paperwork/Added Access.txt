@@ -1,0 +1,22 @@
+[color=#3b7cd1]╔════════╗ █▄ █ ▀█▀  [head=2]Head of Personnel[/head]
+║░░▄██▄░░║ █ ▀█     █      [bold]Added Access Form[/bold]
+║░░████░░║ 
+║▄▄▄██▄▄▄║ 
+╚════════╝
+[bold]────────────────────────────────────────[/bold][/color]
+The following individual will be granted following Access as[bold][color=grey] Unknown [/color][/bold]to [bold][color=grey] Unknown [/color][/bolditalic]
+
+Name:       [color=#002AAF][/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Granter:   [color=#002AAF] XY ~ Head of Personel [/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Station:     [color=#002AAF]NT [/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Reason:     [color=#002AAF][/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+
+[color=#AAAAAA]This permission can be revoked at any time by the captain or the individual who granted it.
+This document is not valid unless stamped by the listed granter
+Abusing permissions granted to you by command officers is not recommended.
+Those who abuse granted permission can be fined up to 5000 spesos persuant NT Handbook section 16-8.7c[/color]
