@@ -11,3 +11,8 @@ You can find an index of the repo [here](https://github.com/Moomoobeef/ss14-form
 You can also find guidelines for contributing [here](https://github.com/Moomoobeef/ss14-forms-txt/wiki/Guidelines).
 
 Tyto has another repo with a similar purpose that can be found [here](https://github.com/TheTyto/SS14-Advanced-Paperwork/tree/main).
+
+## Hi again.
+Moomoobeef here, its been awhile since I was very active with this. Kind of got burned out, kind of been focused on other things. But I started playing moffia now, and I'm actually enjoying ss14 again (waow) so there may be some new content coming up soon. As well as a much needed re-organization of the directories because my god how do you find things in here. Like really, even I'm realizing I don't know where to find shit in this repo, and its *my* repo.
+
+I shouldn't promise anything, but eh we'll see what I actually get around to doing.
