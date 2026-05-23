@@ -1,0 +1,67 @@
+[color=#1b67a5]█▄ █ ▀█▀    [head=3]Material Safety Data Sheet[/head]
+█ ▀█     █        Complies with Space OSHA Hazard
+                       Communication Standard 29 CFR 1910.1200
+
+[head=3]SAMPLE PRODUCT NAME[/head][/color]
+──────────────────────────────────────────
+[head=3]Section 1. Product Identification[/head]
+
+[bold]Product Name:[/bold] Sample name
+[bold]Product Type:[/bold] Sample type
+[bold]Product Use(s):[/bold]
+Sample 1, Sample 2, Sample 3,
+
+──────────────────────────────────────────
+[head=3]Section 2. Hazard(s) & First Aid[/head]
+
+[bold]Potential Acute Health Effects:[/bold]
+Sample 1, Sample 2, Sample 3,
+
+[bold]Potential Chronic Health Effects:[/bold]
+Sample 1, Sample 2, Sample 3,
+
+[bold]Incase of <something>,[/bold]
+<procedures for healing>
+
+[bold]Incase of <something>,[/bold]
+<procedures for healing>
+
+[bold]Flammability Considerations:[/bold]
+\[  ] Highly Flammable
+\[  ] Store in a sealed container
+\[  ] May Spontaneously Combust
+
+──────────────────────────────────────────
+[head=3]Section 3. Medical Uses & Side Effects[/head]
+
+Can be used to heal (damage type).
+[bold]Do not allow patient dosage to exceed (OD)u![/bold]
+An overdose may cause (damages).
+
+Can be used to heal (damage type).
+[bold]Do not allow patient dosage to exceed (OD)u![/bold]
+An overdose may cause (damages).
+
+This chemical may cause (undesirable effect).
+This chemical may cause (undesirable effect) above a concentration of (amount)u.
+
+
+(remove or copy lines as applicable for particular chemical.)
+(just replace this body with "None Applicable" if none)
+
+──────────────────────────────────────────
+[head=3]Section 4. Regulatory Rules[/head]
+
+This chemical is non-controlled and can be produced/used by all staff at any time.
+/
+This chemical is non-controlled and can be produced/used by all staff [bolditalic]during the process of their duties only.[/bolditalic]
+/
+This chemical is [bold]controlled[/bold] and can only be produced/used [bold]with permission of the Head of Security [italic]and[/italic] the Chief Medical Officer.[/bold]
+/
+[bolditalic]This chemical is ILLEGAL and CANNOT be produced, used, or possessed by any staff on the station for any reason.[/bolditalic]
+
+(pick the one that is applicable, and ONLY one)
+
+──────────────────────────────────────────
+
+[head=3]DISCLAIMER:[/head] The data contained herein are furnished for information only and are believed to be reliable. However, NanoTrasen and its affiliates (“Central Command”) does not assume responsibility for any results obtained by persons over whose methods NanoTrasen has no control. It is the user’s responsibility to determine the suitability of NanoTrasen’s products or any production methods mentioned herein for a particular purpose, and to adopt such precautions as may be advisable for the protection of property and persons against any hazards that may be involved in the handling and use of any NanoTrasen’s products. In light of the foregoing, NanoTrasen specifically disclaims all warranties, express or implied, including warranties of merchantability and fitness for a particular purpose, arising from sale or use of NanoTrasen’s products. NanoTrasen further disclaims any liability for consequential or incidental damages of any kind, including lost profits. 
